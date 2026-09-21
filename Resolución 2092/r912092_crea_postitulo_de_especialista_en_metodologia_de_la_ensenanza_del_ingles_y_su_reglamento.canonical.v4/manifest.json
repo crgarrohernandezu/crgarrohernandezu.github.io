@@ -1,0 +1,85 @@
+{
+  "pipeline_version": "4.0.0",
+  "schema_version": "4.0",
+  "run_id": "a80dcf8481c1728f",
+  "created_at": "2026-09-20T04:29:53.081997+00:00",
+  "source_file": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\input\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.pdf",
+  "source_name": "r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.pdf",
+  "source_hash": "b411aed08e0993c1860f0dcd56086c53aba839369945b159502adb3a89480723",
+  "source_size_bytes": 1311990,
+  "extractor": "gliner",
+  "model": "fastino/gliner2.5-base-v1",
+  "canonical_document_id": "doc-resolucion-2092-1991",
+  "outputs": {
+    "documents": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\output\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.canonical.v4\\documents.ndjson",
+    "norms": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\output\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.canonical.v4\\norms.ndjson",
+    "relations": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\output\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.canonical.v4\\relations.ndjson",
+    "passages": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\output\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.canonical.v4\\passages.ndjson",
+    "manifest": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\output\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.canonical.v4\\manifest.json"
+  },
+  "counts": {
+    "documents": 1,
+    "norms": 5,
+    "relations": 3,
+    "passages": 19,
+    "observed_operations": 2
+  },
+  "validation_summary": {
+    "VALIDATED": 26,
+    "REVIEW": 2,
+    "OUT_OF_ONTOLOGY": 2
+  },
+  "warnings": [
+    "norms_require_review",
+    "out_of_ontology_operations_preserved"
+  ],
+  "policies": {
+    "canonical_ids": "deterministic type+number+year; title hash fallback",
+    "identity_separation": "source document != canonical norm != mention provenance",
+    "numeric_ocr": "never silently corrected from consensus",
+    "out_of_ontology": "preserved as observed_operations; not promoted to graph relations",
+    "ocr_reference_rescue": "alternative OCR may recover fragmented references without rewriting Docling text",
+    "passages": "Docling blocks grouped per page; legal-aware split for oversized blocks; strict max 1400 chars; zero overlap; never cross page; source offsets retained",
+    "gliner": "proposal layer; explicit lexical type evidence outranks model label",
+    "timings": "perf_counter wall-clock; model_load excluded from document_total; final telemetry flush excluded",
+    "batch_model_reuse": "reuse one pipeline sequentially or inject shared_extractor; no global singleton"
+  },
+  "features": {
+    "canonical_schema": true,
+    "deterministic_ids": true,
+    "provenance": true,
+    "validation_status": true,
+    "manifest": true,
+    "passages": true,
+    "telemetry": true,
+    "shared_extractor": true,
+    "ocr_reference_rescue": true,
+    "cross_document_reconciliation": false,
+    "elasticsearch_index_builder": false
+  },
+  "timings_seconds": {
+    "model_load": 8.080738,
+    "docling_conversion": 106.788212,
+    "quality_assessment": 0.002224,
+    "logical_segmentation": 0.002379,
+    "rules_extraction": 0.003899,
+    "gliner_extraction": 6.631956,
+    "ocr_reference_rescue": 0.000732,
+    "entity_resolution": 0.000244,
+    "relation_extraction": 0.003998,
+    "canonicalization": 0.007044,
+    "canonical_write": 0.004737,
+    "document_total": 113.445661
+  },
+  "processing_stats": {
+    "pages": 6,
+    "characters": 9911,
+    "passages": 19,
+    "norms": 5,
+    "relations": 3,
+    "chars_per_second": 87.363,
+    "pages_per_second": 0.053,
+    "ocr_used": true,
+    "model_reused": false
+  }
+}

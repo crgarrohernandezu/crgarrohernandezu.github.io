@@ -1,0 +1,5248 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.ocr_rescue_600dpi",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6966587473049867773,
+    "filename": "r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.ocr_rescue_600dpi.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/groups/13"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/groups/14"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/groups/15"
+      },
+      {
+        "$ref": "#/groups/16"
+      },
+      {
+        "$ref": "#/groups/17"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/groups/18"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/groups/19"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/groups/20"
+      },
+      {
+        "$ref": "#/groups/21"
+      },
+      {
+        "$ref": "#/groups/22"
+      },
+      {
+        "$ref": "#/texts/152"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/76"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/87"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/pictures/1"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/pictures/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/122"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/123"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/136"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/139"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 90.66666666666667,
+            "t": 932.3333333333334,
+            "r": 321.0,
+            "b": 911.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "UNIVERSIDAD DE SANTIAGO DE CHILE FACULTAD DE HUMANIDADES",
+      "text": "UNIVERSIDAD DE SANTIAGO DE CHILE FACULTAD DE HUMANIDADES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 404.6666666666667,
+            "t": 941.3333333333334,
+            "r": 478.6666666666667,
+            "b": 909.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "XEN",
+      "text": "XEN"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 450.3333333333333,
+            "t": 918.0,
+            "r": 468.0,
+            "b": 910.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "LES",
+      "text": "LES"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.6666666666667,
+            "t": 883.0,
+            "r": 559.3333333333334,
+            "b": 838.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "CREA PROGRAMA DE POSTITULO DE ESPECIALISTA EN METODOLOGIA DE LA ENSENANZA DEL INGLES Y APRUEBA SU REGLAMENTO DE REGIMEN ACADEMICO.",
+      "text": "CREA PROGRAMA DE POSTITULO DE ESPECIALISTA EN METODOLOGIA DE LA ENSENANZA DEL INGLES Y APRUEBA SU REGLAMENTO DE REGIMEN ACADEMICO."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.3333333333333,
+            "t": 798.3333333333334,
+            "r": 368.6666666666667,
+            "b": 789.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "SANTIAGO,",
+      "text": "SANTIAGO,"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 399.6666666666667,
+            "t": 806.6666666666666,
+            "r": 481.3333333333333,
+            "b": 789.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "19 JUL1991.",
+      "text": "19 JUL1991."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 513.3333333333334,
+            "t": 807.3333333333334,
+            "r": 560.0,
+            "b": 791.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2092",
+      "text": "2092"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.66666666666667,
+            "t": 762.0,
+            "r": 557.6666666666666,
+            "b": 708.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "149 de 1981; VISTOS: lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991,",
+      "text": "149 de 1981; VISTOS: lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991,"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 305.6666666666667,
+            "t": 692.3333333333333,
+            "r": 419.0,
+            "b": 684.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "RESUELVO:",
+      "text": "RESUELVO:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 198.0,
+            "t": 669.0,
+            "r": 557.6666666666666,
+            "b": 645.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "Créase el Programa de Postitulo de Especialista en Metodología de la Enseñanza del Inglés.",
+      "text": "Créase el Programa de Postitulo de Especialista en Metodología de la Enseñanza del Inglés."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 198.0,
+            "t": 632.3333333333333,
+            "r": 557.6666666666666,
+            "b": 586.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "La selección y admisión a este Programa de Postitulo estará a cargo de la Facultad de Humanidades», de acuerdo con los criterios que esta unidad establezca para estos efectos.",
+      "text": "La selección y admisión a este Programa de Postitulo estará a cargo de la Facultad de Humanidades», de acuerdo con los criterios que esta unidad establezca para estos efectos."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 197.33333333333334,
+            "t": 572.0,
+            "r": 557.6666666666666,
+            "b": 549.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Para los efectos de este reglamento se operara con las definiciones siguientes:",
+      "text": "Para los efectos de este reglamento se operara con las definiciones siguientes:"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 196.66666666666666,
+            "t": 536.3333333333333,
+            "r": 557.6666666666666,
+            "b": 478.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            230
+          ]
+        }
+      ],
+      "orig": "PROGRAMA DE POSTITULO DE ESPECIALISTA EN METODO LOGIA DE LA ENSEÑANZA DEL INGLES, en adelante, EL PROGRAMA: Es el conjunto de actividades académicas establecidas por la Universidad como requisitos para optar al Postitulo referido.",
+      "text": "PROGRAMA DE POSTITULO DE ESPECIALISTA EN METODO LOGIA DE LA ENSEÑANZA DEL INGLES, en adelante, EL PROGRAMA: Es el conjunto de actividades académicas establecidas por la Universidad como requisitos para optar al Postitulo referido."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 196.66666666666666,
+            "t": 464.33333333333337,
+            "r": 557.0,
+            "b": 441.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "REGIMEN ACADEMICO: Sistema normativo por el que se rige el desarrollo del Programa.",
+      "text": "REGIMEN ACADEMICO: Sistema normativo por el que se rige el desarrollo del Programa."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 196.33333333333334,
+            "t": 428.33333333333337,
+            "r": 556.6666666666666,
+            "b": 397.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "PLAN DE ESTUDIOS: Conjunto de cátedras conducentes al Postitulo, formado por las cátedras y la tesina.",
+      "text": "PLAN DE ESTUDIOS: Conjunto de cátedras conducentes al Postitulo, formado por las cátedras y la tesina."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 196.33333333333334,
+            "t": 381.0,
+            "r": 556.3333333333334,
+            "b": 348.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "CATEDRA: Expresión de un conjunto de contenidos o materias realizadas en un trimestre determinado, bajo la forma de clases u otras actividades.",
+      "text": "CATEDRA: Expresión de un conjunto de contenidos o materias realizadas en un trimestre determinado, bajo la forma de clases u otras actividades."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 195.66666666666666,
+            "t": 333.66666666666663,
+            "r": 556.0,
+            "b": 276.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "TESINA: Es un trabajo, cuyo tema debe estar relacionado con la naturaleza del Programa y que permite evaluar la capacidad del participante para aplicar sistemáticamente el tema planteado en Situaciones de la vida profesional.",
+      "text": "TESINA: Es un trabajo, cuyo tema debe estar relacionado con la naturaleza del Programa y que permite evaluar la capacidad del participante para aplicar sistemáticamente el tema planteado en Situaciones de la vida profesional."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 195.66666666666666,
+            "t": 262.66666666666663,
+            "r": 555.3333333333334,
+            "b": 218.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "COMITE DE POSTITULO: Es el conjunto compuesto por los Directores de Departamentos que ofrezcan programas de postitulos en la Facultad de Humanidades y el Decano.",
+      "text": "COMITE DE POSTITULO: Es el conjunto compuesto por los Directores de Departamentos que ofrezcan programas de postitulos en la Facultad de Humanidades y el Decano."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 194.66666666666666,
+            "t": 202.66666666666663,
+            "r": 554.6666666666666,
+            "b": 170.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "PROFESORES REGULARES: Son los profesores de la Universidad de Santiago, designados para realizar actividades académicas en el",
+      "text": "PROFESORES REGULARES: Son los profesores de la Universidad de Santiago, designados para realizar actividades académicas en el"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 403.6666666666667,
+            "t": 177.66666666666663,
+            "r": 466.3333333333333,
+            "b": 168.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Programa.",
+      "text": "Programa."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.66666666666667,
+            "t": 670.0,
+            "r": 159.66666666666666,
+            "b": 662.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "ARTICULO 1",
+      "text": "ARTICULO 1"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.33333333333333,
+            "t": 572.6666666666667,
+            "r": 160.66666666666666,
+            "b": 565.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "ARTICULO 2",
+      "text": "ARTICULO 2"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 83.66666666666667,
+            "t": 846.0,
+            "r": 155.0,
+            "b": 838.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "ARTICULO 3",
+      "text": "ARTICULO 3",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 86.0,
+            "t": 356.33333333333337,
+            "r": 156.66666666666666,
+            "b": 348.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "ARTICULO 4",
+      "text": "ARTICULO 4",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 191.66666666666666,
+            "t": 895.3333333333334,
+            "r": 551.3333333333334,
+            "b": 861.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "PROFESORES VISITANTES: Son los profesores que por su especialización son invitados a realizar actividades académicas en el Programa.",
+      "text": "PROFESORES VISITANTES: Son los profesores que por su especialización son invitados a realizar actividades académicas en el Programa."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 192.0,
+            "t": 847.6666666666666,
+            "r": 551.6666666666666,
+            "b": 789.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "El responsable del Programa será el Director del Departamento de Idiomas; quien podrá delegar la gestión ejecutiva del Programa en un Coordinador. Serán funciones de éste proponer a las autoridades pertinentes:",
+      "text": "El responsable del Programa será el Director del Departamento de Idiomas; quien podrá delegar la gestión ejecutiva del Programa en un Coordinador. Serán funciones de éste proponer a las autoridades pertinentes:"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 192.33333333333334,
+            "t": 775.6666666666666,
+            "r": 552.0,
+            "b": 756.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "a) Los cupos de ingreso para cada trimestre academico.",
+      "text": "Los cupos de ingreso para cada trimestre academico.",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 192.33333333333334,
+            "t": 740.3333333333333,
+            "r": 552.0,
+            "b": 718.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "b) Las pautas y los procedimientos para seleccionar a los postulantes al Programa.",
+      "text": "Las pautas y los procedimientos para seleccionar a los postulantes al Programa.",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 192.66666666666666,
+            "t": 704.3333333333333,
+            "r": 552.0,
+            "b": 670.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "c) La nómina de los profesores regulares y visitantes, como asimismo los periodos durante los cuales se desempeñarán en los Programas.",
+      "text": "La nómina de los profesores regulares y visitantes, como asimismo los periodos durante los cuales se desempeñarán en los Programas.",
+      "enumerated": true,
+      "marker": "c)"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 193.0,
+            "t": 656.6666666666667,
+            "r": 552.6666666666666,
+            "b": 623.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "d) La nómina de alumnos seleccionados elegidos de entre los postulantes del Programa para su aceptación como alumnos regulares.",
+      "text": "La nómina de alumnos seleccionados elegidos de entre los postulantes del Programa para su aceptación como alumnos regulares.",
+      "enumerated": true,
+      "marker": "d)"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 193.33333333333334,
+            "t": 609.0,
+            "r": 552.6666666666666,
+            "b": 576.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "e) Las asignaturas que trimestralmente constituirán las cátedras establecidas en el plan de estudios.",
+      "text": "Las asignaturas que trimestralmente constituirán las cátedras establecidas en el plan de estudios.",
+      "enumerated": true,
+      "marker": "e)"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 193.66666666666666,
+            "t": 560.3333333333333,
+            "r": 552.6666666666666,
+            "b": 526.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "f) Los profesores regulares y visitantes del Programas que habrán de cumplir las siguientes responsabilidades especificas:",
+      "text": "Los profesores regulares y visitantes del Programas que habrán de cumplir las siguientes responsabilidades especificas:",
+      "enumerated": true,
+      "marker": "f)"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 215.33333333333334,
+            "t": 511.6666666666667,
+            "r": 552.6666666666666,
+            "b": 489.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "- Elaboración de los programas de las cátedras a su Cargo.",
+      "text": "Elaboración de los programas de las cátedras a su Cargo.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 215.33333333333334,
+            "t": 475.0,
+            "r": 553.0,
+            "b": 454.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "- Confección y aplicación de las pautas de selección de alumnos al Programa.",
+      "text": "Confección y aplicación de las pautas de selección de alumnos al Programa.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 215.33333333333334,
+            "t": 439.66666666666663,
+            "r": 553.3333333333334,
+            "b": 420.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "- Supervisión, revisión y calificación de la Tesina.",
+      "text": "Supervisión, revisión y calificación de la Tesina.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 194.0,
+            "t": 404.0,
+            "r": 552.3333333333334,
+            "b": 384.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "g) El otorgamiento del Postitulo señalado en el articulo 1. :",
+      "text": "El otorgamiento del Postitulo señalado en el articulo 1. :",
+      "enumerated": true,
+      "marker": "g)"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 194.0,
+            "t": 356.33333333333337,
+            "r": 501.3333333333333,
+            "b": 348.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Serán atribuciones del Comité de Postitulo:",
+      "text": "Serán atribuciones del Comité de Postitulo:"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 194.0,
+            "t": 332.33333333333337,
+            "r": 554.0,
+            "b": 311.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "- Proponer al Consejo de Facultad los cupos de ingreso de alumnos al Programa.",
+      "text": "Proponer al Consejo de Facultad los cupos de ingreso de alumnos al Programa.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 194.0,
+            "t": 297.33333333333337,
+            "r": 553.6666666666666,
+            "b": 276.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "- Aprobar la nómina de los preseleccionados elegidos entre los postulantes al Postitulo.",
+      "text": "Aprobar la nómina de los preseleccionados elegidos entre los postulantes al Postitulo.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 194.33333333333334,
+            "t": 261.66666666666663,
+            "r": 553.6666666666666,
+            "b": 241.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "- Resolver las pautas para preseleccionar a los postulantes al Postítulo.",
+      "text": "Resolver las pautas para preseleccionar a los postulantes al Postítulo.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 194.66666666666666,
+            "t": 226.33333333333337,
+            "r": 554.0,
+            "b": 195.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "- Resolver las pautas departamentales para la confección, preparación y presentación de las tesinas.",
+      "text": "Resolver las pautas departamentales para la confección, preparación y presentación de las tesinas.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.66666666666667,
+            "t": 897.0,
+            "r": 245.33333333333334,
+            "b": 887.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "11 SISTEMA DE INGRESO.",
+      "text": "11 SISTEMA DE INGRESO.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 88.66666666666667,
+            "t": 861.0,
+            "r": 159.66666666666666,
+            "b": 852.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "ARTICULO 5",
+      "text": "ARTICULO 5"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 87.66666666666667,
+            "t": 765.3333333333334,
+            "r": 158.66666666666666,
+            "b": 757.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "ARTICULO 6",
+      "text": "ARTICULO 6",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 196.0,
+            "t": 859.6666666666666,
+            "r": 556.6666666666666,
+            "b": 779.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "Podrán postular al Postitulo de Especialista en Metodologia de la Enseñanza del Inglés, quienes posean el grado de Licenciado en Educación, con mención en Inglés o el Título de Profesor de Inglés o equivalente. Además, los postulantes deberán acreditar una experiencia docente minima de 2 años.",
+      "text": "Podrán postular al Postitulo de Especialista en Metodologia de la Enseñanza del Inglés, quienes posean el grado de Licenciado en Educación, con mención en Inglés o el Título de Profesor de Inglés o equivalente. Además, los postulantes deberán acreditar una experiencia docente minima de 2 años."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 195.66666666666666,
+            "t": 763.3333333333334,
+            "r": 555.3333333333334,
+            "b": 742.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Los procedimientos de ingreso al Programa serán los siguientes:",
+      "text": "Los procedimientos de ingreso al Programa serán los siguientes:"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 195.33333333333334,
+            "t": 728.3333333333333,
+            "r": 295.0,
+            "b": 720.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "aj) Postulación",
+      "text": "aj) Postulación",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 216.33333333333334,
+            "t": 692.0,
+            "r": 555.3333333333334,
+            "b": 645.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "Los postulantes deberán presentar su solicitud de ingreso en la Coordinación del Programa, acompañando las certificaciones correspondien-— tes a los siguientes antecedentes:",
+      "text": "Los postulantes deberán presentar su solicitud de ingreso en la Coordinación del Programa, acompañando las certificaciones correspondien-— tes a los siguientes antecedentes:"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 194.66666666666666,
+            "t": 632.3333333333333,
+            "r": 408.3333333333333,
+            "b": 622.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": ">= Fecha y lugar de nacimiento",
+      "text": ">= Fecha y lugar de nacimiento",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 194.33333333333334,
+            "t": 620.3333333333333,
+            "r": 481.0,
+            "b": 609.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "> Títulos o grados académicos obtenidos",
+      "text": "> Títulos o grados académicos obtenidos",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 194.66666666666666,
+            "t": 608.3333333333333,
+            "r": 488.3333333333333,
+            "b": 597.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "~ Certificados de concentración de notas",
+      "text": "~ Certificados de concentración de notas",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 194.0,
+            "t": 596.6666666666667,
+            "r": 488.3333333333333,
+            "b": 585.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "= Patrocinio institucional si lo hubiere",
+      "text": "= Patrocinio institucional si lo hubiere",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 194.33333333333334,
+            "t": 584.3333333333333,
+            "r": 415.3333333333333,
+            "b": 574.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "~ Curriculum Vitae normalizado",
+      "text": "~ Curriculum Vitae normalizado",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 194.0,
+            "t": 572.6666666666667,
+            "r": 350.6666666666667,
+            "b": 563.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "-= Experiencia docente",
+      "text": "-= Experiencia docente",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 193.66666666666666,
+            "t": 548.6666666666667,
+            "r": 279.0,
+            "b": 538.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "b) Selección",
+      "text": "b) Selección",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 214.0,
+            "t": 524.0,
+            "r": 552.3333333333334,
+            "b": 453.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "La selección estará a cargo del Coordinador del Programa, más dos profesores del mismo, nombrados por el Director del Departamento de Idiomas, quienes enviarán los antecedentes y la nómina de seleccionados a la autoridad pertinente para su resolución definitiva.",
+      "text": "La selección estará a cargo del Coordinador del Programa, más dos profesores del mismo, nombrados por el Director del Departamento de Idiomas, quienes enviarán los antecedentes y la nómina de seleccionados a la autoridad pertinente para su resolución definitiva."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 192.33333333333334,
+            "t": 440.33333333333337,
+            "r": 277.3333333333333,
+            "b": 431.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Cc) Matrícula",
+      "text": "Cc) Matrícula",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 213.0,
+            "t": 415.66666666666663,
+            "r": 551.6666666666666,
+            "b": 310.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            403
+          ]
+        }
+      ],
+      "orig": "Los postulantes seleccionados deberán registrar Su matrícula para adquirir la calidad de alumnos del Programa en la Facultad de Humanidades. Este trámite deberá realizarse dentro del periodo que para este efecto se establezca. Los aranceles y modalidades de pago serán los que fije la Facultad de Humanidades, de acuerdo con las normas vigentes en la Universidad de Santiago de Chile sobre esta materia.",
+      "text": "Los postulantes seleccionados deberán registrar Su matrícula para adquirir la calidad de alumnos del Programa en la Facultad de Humanidades. Este trámite deberá realizarse dentro del periodo que para este efecto se establezca. Los aranceles y modalidades de pago serán los que fije la Facultad de Humanidades, de acuerdo con las normas vigentes en la Universidad de Santiago de Chile sobre esta materia."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 83.66666666666667,
+            "t": 288.0,
+            "r": 266.6666666666667,
+            "b": 278.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Iii. DEL PLAN DE ESTUDIOS.",
+      "text": "Iii. DEL PLAN DE ESTUDIOS.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 82.0,
+            "t": 252.66666666666663,
+            "r": 153.0,
+            "b": 244.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "ARTICULO 7",
+      "text": "ARTICULO 7"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 189.33333333333334,
+            "t": 250.66666666666663,
+            "r": 549.3333333333334,
+            "b": 173.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            295
+          ]
+        }
+      ],
+      "orig": "Las cátedras podrán ser ofrecidas bajo las denominaciones que adopten las asignaturas especificas en que éstas se imparten. El Director del Departamento de Idiomas informará a la Facultad las cátedras que se impartirán en el nivel o trimestre respectivo y los académicos que habrán de dictarlas.",
+      "text": "Las cátedras podrán ser ofrecidas bajo las denominaciones que adopten las asignaturas especificas en que éstas se imparten. El Director del Departamento de Idiomas informará a la Facultad las cátedras que se impartirán en el nivel o trimestre respectivo y los académicos que habrán de dictarlas."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 87.66666666666667,
+            "t": 894.0,
+            "r": 556.6666666666666,
+            "b": 814.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            324
+          ]
+        }
+      ],
+      "orig": "ARTICULO 8 Las cátedras del Plan de Estudios serán materia de una resolución especifica. Las cátedras tendrán un trimestre de duración y a ilo menos 48 horas de clases o actividades equivalentes y efectivamente realizadas; las que se impartirán distribuyéndolas en 12 semanas. Sólo se exceptúa la tesina que tendrá 12 horas.",
+      "text": "ARTICULO 8 Las cátedras del Plan de Estudios serán materia de una resolución especifica. Las cátedras tendrán un trimestre de duración y a ilo menos 48 horas de clases o actividades equivalentes y efectivamente realizadas; las que se impartirán distribuyéndolas en 12 semanas. Sólo se exceptúa la tesina que tendrá 12 horas.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 87.33333333333333,
+            "t": 797.6666666666666,
+            "r": 556.3333333333334,
+            "b": 670.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            548
+          ]
+        }
+      ],
+      "orig": "ARTICULO 9 Será obligación del estudiante realizar sus estudios en trimestres consecutivos. Sin embargo» y por excepción, el Decano podrá conceder a un estudiante la suspensión temporal de los estudios por una sola vezs a solicitud del alumno y previo informe del Director del Departamento de Idiomas. El periodo suspendido no se contabilizará para los efectos de dar cumplimiento al período máximo establecido en el articulo 11 ys en todo casos, el alumno deberá reincorporarse al Programa cuando se dictaren las cátedras del trimestre suspendido.",
+      "text": "ARTICULO 9 Será obligación del estudiante realizar sus estudios en trimestres consecutivos. Sin embargo» y por excepción, el Decano podrá conceder a un estudiante la suspensión temporal de los estudios por una sola vezs a solicitud del alumno y previo informe del Director del Departamento de Idiomas. El periodo suspendido no se contabilizará para los efectos de dar cumplimiento al período máximo establecido en el articulo 11 ys en todo casos, el alumno deberá reincorporarse al Programa cuando se dictaren las cátedras del trimestre suspendido.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 88.0,
+            "t": 655.3333333333333,
+            "r": 556.6666666666666,
+            "b": 611.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "ARTICULO 10 La permanencia minima de un estudiante en el Programas incluida la presentación y la calificación de la Tesina, deberá ser ;igual a tres trimestres académicos.",
+      "text": "ARTICULO 10 La permanencia minima de un estudiante en el Programas incluida la presentación y la calificación de la Tesina, deberá ser ;igual a tres trimestres académicos.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 87.66666666666667,
+            "t": 595.0,
+            "r": 556.6666666666666,
+            "b": 551.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "ARTICULO 11 La permanencia máxima de un alumno en el Programa» incluida la presentación y aprobación de la Tesina, deberá ser igual o inferior a seis trimestres académicos.",
+      "text": "ARTICULO 11 La permanencia máxima de un alumno en el Programa» incluida la presentación y aprobación de la Tesina, deberá ser igual o inferior a seis trimestres académicos.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 89.0,
+            "t": 523.3333333333333,
+            "r": 273.0,
+            "b": 515.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "IV. DE LAS CALIFICACIONES.",
+      "text": "IV. DE LAS CALIFICACIONES.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 87.66666666666667,
+            "t": 486.66666666666663,
+            "r": 556.3333333333334,
+            "b": 453.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "ARTICULO 12 En cada cátedra o actividad, la calificación final será responsabilidad del profesor o de los profesores asignados a ellas.",
+      "text": "ARTICULO 12 En cada cátedra o actividad, la calificación final será responsabilidad del profesor o de los profesores asignados a ellas.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 87.66666666666667,
+            "t": 439.0,
+            "r": 556.3333333333334,
+            "b": 407.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "ARTICULO 13 En cada cátedra los alumnos deberán rendir, a lo menos, dos evaluaciones sumativas parciales y una evaluación final de carácter acumulativo.",
+      "text": "ARTICULO 13 En cada cátedra los alumnos deberán rendir, a lo menos, dos evaluaciones sumativas parciales y una evaluación final de carácter acumulativo.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 88.0,
+            "t": 391.33333333333337,
+            "r": 556.3333333333334,
+            "b": 334.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            248
+          ]
+        }
+      ],
+      "orig": "ARTICULO 14 Para aprobar la cátedra, el alumno deberá acreditar una asistencia igual o superior a 80% . Las calificaciones parciales en cada cátedra se expresarán en una escala de l a7 . La calificación final será registrada en la siguiente escala:",
+      "text": "ARTICULO 14 Para aprobar la cátedra, el alumno deberá acreditar una asistencia igual o superior a 80% . Las calificaciones parciales en cada cátedra se expresarán en una escala de l a7 . La calificación final será registrada en la siguiente escala:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 196.33333333333334,
+            "t": 320.0,
+            "r": 556.0,
+            "b": 299.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "- A: Aprobado con maxima distinción (promedio igual o mayor a 65,0)",
+      "text": "A: Aprobado con maxima distinción (promedio igual o mayor a 65,0)",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 196.0,
+            "t": 284.66666666666663,
+            "r": 556.3333333333334,
+            "b": 275.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "- B: Aprobado con distinción (promedio entre 5,0 y",
+      "text": "B: Aprobado con distinción (promedio entre 5,0 y",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 196.0,
+            "t": 249.33333333333337,
+            "r": 481.6666666666667,
+            "b": 239.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "-= C: Aprobado (promedio entre 4,0 y 45,9)",
+      "text": "-= C: Aprobado (promedio entre 4,0 y 45,9)",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 196.0,
+            "t": 225.66666666666663,
+            "r": 474.6666666666667,
+            "b": 216.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "- D: Reprobado (promedio menor que 4,0)",
+      "text": "D: Reprobado (promedio menor que 4,0)",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 196.0,
+            "t": 202.0,
+            "r": 556.0,
+            "b": 184.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "La calificación minima de aprobación en cada cátedra será C.",
+      "text": "La calificación minima de aprobación en cada cátedra será C."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 92.66666666666667,
+            "t": 882.3333333333334,
+            "r": 171.33333333333334,
+            "b": 874.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "ARTICULO 15",
+      "text": "ARTICULO 15"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 92.0,
+            "t": 618.6666666666667,
+            "r": 183.33333333333334,
+            "b": 610.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "V. LA TESINA.",
+      "text": "V. LA TESINA.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 92.0,
+            "t": 583.3333333333333,
+            "r": 170.66666666666666,
+            "b": 575.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "ARTICULO 16",
+      "text": "ARTICULO 16",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 200.66666666666666,
+            "t": 882.0,
+            "r": 561.3333333333334,
+            "b": 742.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            552
+          ]
+        }
+      ],
+      "orig": "El alummo ques al final del trimestre académicos, tenga un promedio parcial de aprobación, en una o más actividades, pero que por razones muy justificadas se viera imposibilitado de completar los requerimientos necesarios para la aprobación final, obtendrá calificación I (incompleto). Contará con un plazo máximo de un trimestre para dar cumplimiento a los requisitos pendientes y obtener, asi, la calificación final. En todo caso, la pertinencia de la calificación Í solicitada por el alumno será resuelta por el Director del Departamento de Idiomas.",
+      "text": "El alummo ques al final del trimestre académicos, tenga un promedio parcial de aprobación, en una o más actividades, pero que por razones muy justificadas se viera imposibilitado de completar los requerimientos necesarios para la aprobación final, obtendrá calificación I (incompleto). Contará con un plazo máximo de un trimestre para dar cumplimiento a los requisitos pendientes y obtener, asi, la calificación final. En todo caso, la pertinencia de la calificación Í solicitada por el alumno será resuelta por el Director del Departamento de Idiomas."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 200.33333333333334,
+            "t": 726.0,
+            "r": 560.6666666666666,
+            "b": 643.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            319
+          ]
+        }
+      ],
+      "orig": "El alumno que reprobare alguna cátedra deberá cursarla en el trimestre siguiente mediante el sistema tutorial y en forma paralela a las cátedras de ese trimestre, siendo su aprobación requisito para rendir examen final, en las asignaturas propias del trimestre. Si la reprobare nuevamente quedará excluido del Programa.",
+      "text": "El alumno que reprobare alguna cátedra deberá cursarla en el trimestre siguiente mediante el sistema tutorial y en forma paralela a las cátedras de ese trimestre, siendo su aprobación requisito para rendir examen final, en las asignaturas propias del trimestre. Si la reprobare nuevamente quedará excluido del Programa."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 200.0,
+            "t": 582.0,
+            "r": 560.3333333333334,
+            "b": 537.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "Los estudiantes podrán ¡iniciar su tesina cuando hayan aprobado la totalidad de las cátedras de los niveles anteriores a ella (primero y segundo trimestre de estudios).",
+      "text": "Los estudiantes podrán ¡iniciar su tesina cuando hayan aprobado la totalidad de las cátedras de los niveles anteriores a ella (primero y segundo trimestre de estudios)."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 199.66666666666666,
+            "t": 522.0,
+            "r": 560.0,
+            "b": 500.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "El proceso de evaluación y calificación de la tesina tendrá la instancias:",
+      "text": "El proceso de evaluación y calificación de la tesina tendrá la instancias:"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.33333333333333,
+            "t": 522.6666666666667,
+            "r": 393.3333333333333,
+            "b": 498.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "ARTICULO 17 siguientes",
+      "text": "ARTICULO 17 siguientes",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 199.66666666666666,
+            "t": 485.33333333333337,
+            "r": 560.0,
+            "b": 451.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "a) Presentación del Proyecto de la Tesina y evaluación del mismo por parte de una Comisión nombrada para este efecto.",
+      "text": "Presentación del Proyecto de la Tesina y evaluación del mismo por parte de una Comisión nombrada para este efecto.",
+      "enumerated": true,
+      "marker": "a)"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 199.33333333333334,
+            "t": 438.0,
+            "r": 559.6666666666666,
+            "b": 417.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "b) Revisión y calificación fundamentada por parte del Profesor Guia.",
+      "text": "Revisión y calificación fundamentada por parte del Profesor Guia.",
+      "enumerated": true,
+      "marker": "b)"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 199.0,
+            "t": 402.33333333333337,
+            "r": 559.6666666666666,
+            "b": 346.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "En el caso de que la Tesina fuese aprobada con observaciones, el estudiante deberá incorporar las modificaciones en el plazo de 45 días, antes de ser propuesto para que la Universidad le conceda el Postitulo.",
+      "text": "En el caso de que la Tesina fuese aprobada con observaciones, el estudiante deberá incorporar las modificaciones en el plazo de 45 días, antes de ser propuesto para que la Universidad le conceda el Postitulo."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 198.66666666666666,
+            "t": 330.66666666666663,
+            "r": 559.0,
+            "b": 297.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "Si el estudiante tiene calificación D en la Tesina, deberá repetirla por una sola vez, en el trimestre siguiente.",
+      "text": "Si el estudiante tiene calificación D en la Tesina, deberá repetirla por una sola vez, en el trimestre siguiente."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.0,
+            "t": 403.0,
+            "r": 169.66666666666666,
+            "b": 395.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "ARTICULO 18",
+      "text": "ARTICULO 18"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.0,
+            "t": 331.33333333333337,
+            "r": 169.0,
+            "b": 323.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "ARTICULO 19",
+      "text": "ARTICULO 19",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 90.33333333333333,
+            "t": 272.66666666666663,
+            "r": 361.3333333333333,
+            "b": 263.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "VI. DE LAS CERTIFICACIONES Y DIPLOMAS.",
+      "text": "VI. DE LAS CERTIFICACIONES Y DIPLOMAS.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 90.0,
+            "t": 238.0,
+            "r": 168.66666666666666,
+            "b": 230.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "ARTICULO 20",
+      "text": "ARTICULO 20"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 198.0,
+            "t": 236.66666666666663,
+            "r": 558.3333333333334,
+            "b": 155.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "Los alumnos que aprueben la totalidad de las exigencias curriculares contempladas en este Programa tendrán derecho a un Diploma de Postítulo, que los acredite como \"Especialista en Metodología de la Enseñanza del Inglés\" y a las certificaciones correspondientes, en conformidad a las normas vigentes en la Universidad de Santiago de Chile.",
+      "text": "Los alumnos que aprueben la totalidad de las exigencias curriculares contempladas en este Programa tendrán derecho a un Diploma de Postítulo, que los acredite como \"Especialista en Metodología de la Enseñanza del Inglés\" y a las certificaciones correspondientes, en conformidad a las normas vigentes en la Universidad de Santiago de Chile."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 90.0,
+            "t": 898.3333333333334,
+            "r": 167.0,
+            "b": 890.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "ARTICULO 21",
+      "text": "ARTICULO 21"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 198.0,
+            "t": 897.0,
+            "r": 558.6666666666666,
+            "b": 864.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "Cualquiera situación no prevista en esta Resolución será resuelta por el Decano de la Facultad de Humanidades.",
+      "text": "Cualquiera situación no prevista en esta Resolución será resuelta por el Decano de la Facultad de Humanidades."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 392.0,
+            "t": 823.0,
+            "r": 550.3333333333334,
+            "b": 810.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "ANOTESE Y COMUNIQUESE ,",
+      "text": "ANOTESE Y COMUNIQUESE ,"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 88.66666666666667,
+            "t": 790.0,
+            "r": 456.0,
+            "b": 767.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "SERGIO PEREIRA POZA. Decano Facultad de Humanidades CARLOS ARAYA VILLALOBOS. Secretario General",
+      "text": "SERGIO PEREIRA POZA. Decano Facultad de Humanidades CARLOS ARAYA VILLALOBOS. Secretario General"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 87.33333333333333,
+            "t": 598.0,
+            "r": 178.0,
+            "b": 590.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Distribución:",
+      "text": "Distribución:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 196.66666666666666,
+            "t": 740.6666666666667,
+            "r": 440.0,
+            "b": 729.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Lo que transcribo a Ud.; para suc",
+      "text": "Lo que transcribo a Ud.; para suc"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 196.33333333333334,
+            "t": 717.0,
+            "r": 287.0,
+            "b": 708.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Saluda a Ud.»",
+      "text": "Saluda a Ud.»"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 88.0,
+            "t": 574.3333333333333,
+            "r": 165.0,
+            "b": 566.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "1. Rectoría",
+      "text": "Rectoría",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 88.0,
+            "t": 562.3333333333333,
+            "r": 235.66666666666666,
+            "b": 553.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "1. Secretaría General",
+      "text": "Secretaría General",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 86.33333333333333,
+            "t": 551.0,
+            "r": 272.3333333333333,
+            "b": 541.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "7. Facultad de Humanidades",
+      "text": "Facultad de Humanidades",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 87.66666666666667,
+            "t": 539.0,
+            "r": 286.6666666666667,
+            "b": 529.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "1. Contraloría Universitaria",
+      "text": "Contraloría Universitaria",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 86.0,
+            "t": 527.3333333333333,
+            "r": 285.3333333333333,
+            "b": 517.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "2. Oficina de Partes Central",
+      "text": "Oficina de Partes Central",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.33333333333333,
+            "t": 491.0,
+            "r": 178.0,
+            "b": 481.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "postit.ing 42",
+      "text": "postit.ing 42"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.33333333333333,
+            "t": 968.3333333333334,
+            "r": 251.0,
+            "b": 935.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "UNIVERSIDAD DE SANTIAGO DE CHILE FACULTAD DE HUMANIDADES SECRETARIA ACADEMICA",
+      "text": "UNIVERSIDAD DE SANTIAGO DE CHILE FACULTAD DE HUMANIDADES SECRETARIA ACADEMICA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 95.0,
+            "t": 796.0,
+            "r": 158.0,
+            "b": 787.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "sanriaco,",
+      "text": "sanriaco,"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 181.33333333333334,
+            "t": 803.3333333333334,
+            "r": 253.33333333333334,
+            "b": 789.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "17 JUL i991",
+      "text": "17 JUL i991"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 95.0,
+            "t": 749.0,
+            "r": 121.0,
+            "b": 741.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "DE :",
+      "text": "DE :"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 95.0,
+            "t": 725.6666666666667,
+            "r": 121.0,
+            "b": 718.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "A :",
+      "text": "A :"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 131.0,
+            "t": 749.0,
+            "r": 447.0,
+            "b": 739.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "SECRETARIO ACADEMICO FACULTAD DE HUMANIDADES",
+      "text": "SECRETARIO ACADEMICO FACULTAD DE HUMANIDADES"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 130.66666666666666,
+            "t": 726.0,
+            "r": 261.0,
+            "b": 705.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "VICTOR AGUILERA V. SECRETARIA GENERAL",
+      "text": "VICTOR AGUILERA V. SECRETARIA GENERAL"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 94.33333333333333,
+            "t": 655.3333333333333,
+            "r": 562.6666666666666,
+            "b": 610.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "Conforme a lo solicitado por Ud. telefónicamente, cumplo con remitirle fotocopia de la página NS 3 del Acta N2965 del 6.06.91 del Consejo de Facultad en la cual se acuerda crear los programas de postítulos.",
+      "text": "Conforme a lo solicitado por Ud. telefónicamente, cumplo con remitirle fotocopia de la página NS 3 del Acta N2965 del 6.06.91 del Consejo de Facultad en la cual se acuerda crear los programas de postítulos."
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 238.66666666666666,
+            "t": 596.6666666666667,
+            "r": 416.3333333333333,
+            "b": 587.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Saluda atentamente a Ud.,",
+      "text": "Saluda atentamente a Ud.,"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 346.3333333333333,
+            "t": 536.6666666666667,
+            "r": 352.3333333333333,
+            "b": 521.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "21793",
+      "text": "21793"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 340.6666666666667,
+            "t": 510.0,
+            "r": 349.0,
+            "b": 499.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Le",
+      "text": "Le"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 339.0,
+            "t": 528.3333333333333,
+            "r": 349.6666666666667,
+            "b": 511.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "an",
+      "text": "an"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 339.6666666666667,
+            "t": 535.6666666666667,
+            "r": 344.6666666666667,
+            "b": 529.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "e",
+      "text": "e"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 350.0,
+            "t": 521.6666666666667,
+            "r": 356.6666666666667,
+            "b": 503.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "OS",
+      "text": "OS"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 94.0,
+            "t": 456.0,
+            "r": 156.33333333333334,
+            "b": 447.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "RLO/cmro.",
+      "text": "RLO/cmro."
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 93.66666666666667,
+            "t": 432.33333333333337,
+            "r": 185.0,
+            "b": 423.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Distribución:",
+      "text": "Distribución:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 94.66666666666667,
+            "t": 409.0,
+            "r": 251.33333333333334,
+            "b": 400.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "1.- Secretaría General",
+      "text": "1.- Secretaría General"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 93.66666666666667,
+            "t": 397.0,
+            "r": 172.66666666666666,
+            "b": 389.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "2.- Archivo",
+      "text": "2.- Archivo"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 226.66666666666666,
+            "t": 278.0,
+            "r": 390.6666666666667,
+            "b": 270.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Teléfonos: 6312938 - 6811100 Anexo: 2451",
+      "text": "Teléfonos: 6312938 - 6811100 Anexo: 2451"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 384.0,
+            "t": 845.0,
+            "r": 512.6666666666666,
+            "b": 832.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "MEMORANDO No 73%",
+      "text": "MEMORANDO No 73%"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.66666666666667,
+            "t": 230.66666666666663,
+            "r": 293.0,
+            "b": 221.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Se ST OOTP BRERA ARAVA PRA",
+      "text": "Se ST OOTP BRERA ARAVA PRA"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 307.6666666666667,
+            "t": 973.6666666666666,
+            "r": 313.3333333333333,
+            "b": 967.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 83.33333333333333,
+            "t": 940.0,
+            "r": 275.3333333333333,
+            "b": 928.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "",
+      "text": "",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 111.66666666666667,
+            "t": 915.3333333333334,
+            "r": 531.3333333333334,
+            "b": 870.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 112.66666666666667,
+            "t": 844.6666666666666,
+            "r": 531.3333333333334,
+            "b": 681.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            796
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 112.66666666666667,
+            "t": 669.0,
+            "r": 528.6666666666666,
+            "b": 648.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 112.66666666666667,
+            "t": 633.3333333333333,
+            "r": 531.0,
+            "b": 578.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 161.33333333333334,
+            "t": 562.0,
+            "r": 501.6666666666667,
+            "b": 543.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 128.66666666666666,
+            "t": 526.6666666666667,
+            "r": 531.0,
+            "b": 506.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 141.66666666666666,
+            "t": 503.6666666666667,
+            "r": 408.0,
+            "b": 494.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 141.66666666666666,
+            "t": 491.66666666666663,
+            "r": 291.6666666666667,
+            "b": 482.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 142.33333333333334,
+            "t": 480.33333333333337,
+            "r": 263.6666666666667,
+            "b": 471.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 128.33333333333334,
+            "t": 457.0,
+            "r": 531.0,
+            "b": 436.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 142.0,
+            "t": 433.66666666666663,
+            "r": 408.0,
+            "b": 424.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 142.0,
+            "t": 422.33333333333337,
+            "r": 264.0,
+            "b": 413.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 113.33333333333333,
+            "t": 375.0,
+            "r": 531.3333333333334,
+            "b": 333.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/groups/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 113.0,
+            "t": 317.33333333333337,
+            "r": 279.0,
+            "b": 310.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "",
+      "text": "",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/groups/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 142.0,
+            "t": 306.0,
+            "r": 420.3333333333333,
+            "b": 296.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/groups/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 113.33333333333333,
+            "t": 307.66666666666663,
+            "r": 335.3333333333333,
+            "b": 295.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 113.33333333333333,
+            "t": 294.0,
+            "r": 131.33333333333334,
+            "b": 286.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 142.0,
+            "t": 294.66666666666663,
+            "r": 435.0,
+            "b": 285.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 113.33333333333333,
+            "t": 271.0,
+            "r": 300.3333333333333,
+            "b": 263.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "",
+      "text": "",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 113.33333333333333,
+            "t": 259.0,
+            "r": 131.33333333333334,
+            "b": 252.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 142.0,
+            "t": 260.66666666666663,
+            "r": 420.3333333333333,
+            "b": 248.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 129.33333333333334,
+            "t": 245.33333333333337,
+            "r": 131.33333333333334,
+            "b": 240.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 142.0,
+            "t": 247.66666666666663,
+            "r": 411.6666666666667,
+            "b": 238.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 286.6666666666667,
+            "t": 212.66666666666663,
+            "r": 405.3333333333333,
+            "b": 205.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 286.6666666666667,
+            "t": 201.0,
+            "r": 398.6666666666667,
+            "b": 194.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 0.0,
+            "t": 1008.0,
+            "r": 612.0,
+            "b": 0.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2352
+          ]
+        }
+      ],
+      "orig": ", ] 3\n2. -— Ecosraros de Postitule.\nSe acuerda crear los Postitulus de Esoecilalisti en Melodo-\nlogia ae la Enseñanza uel Castelianos Esirniciadinta cis\nHotodoluglía de la Enseñania «de la ibistorla y Gagecor fa de\nChile y de Especialista en Metodología de da liuscfiatiza Gel\ninglés.\nDespués de explicar las razvones due se tuvieron em cuenta\npara decidir enviar un solo proyecto centralizado de\npostitulos, se discuten los terminos en que se adulnistra-\nran los posibles excedentes y la acdtaimistración « Carso de\nDeceneato. Esto, en virtud del Ord. NG3? del 11.05.91 del\nDirector General de Planificación e Informática que señala\ntextualiente, \"los proyectos de Asistencia y Prestacion de\nServicios que generen excedentes brutes que superen los iw\n5.000.060.) tendrán para su libre disposición del 190% dee\naGuelia parte que supere dicha cantidad), vale decir, tio\nhabcá deducción del 25% de contribución para lia £felinitiics-\ntración centralizada”. Considerando los beneficios que\ndevengara la lieplementación de oun provecto Único adchisis-\ntrado por Decanelo se toman 105 sliulentes acu. ios:\n2.1 Establecer un criterio de distribución ¿noisic2irtaca dl,\n- cor: el numero de alutinos atendidos por Deraiinimziidto.\n2.2 Los Directores de Departamentos invertirán les nta -\ndentes en Función de las prioridades de decarroliso\nestablecidas por el Conocio. due Facultad sobe lía ivan:\nde las proposiciones y necesidades establecidas 1101\nsus diferentes unidades.\n2.3 Los porcentajes de diuotribución serán los Gu: va\nindican:\n- Dentro de los márgenes establecidos por el mono ce\n19.000.000. -\n95% para los Departamentos Académicos\n257% para Casá Central\n10% para lecanato\n- Sobre los márgenes estublecidss oor el mmritis dde\n$5.000.000. -\n_ S0% para los Departamentos Acudemicos\n20% para Decanato\nVarios.\n- £ proposición del señor Director del Depertaeorto de\nidiomas se aprueba el cambio en la calidad del moti sci:\nto de los siguientes acadéiicos Jornada Complete, ís Comba:\ndei 1 de Julio de 1991.\nNAIN APRAHAM ROMEZ DIAZ\nDe: Grado 529, Rango Be, calidad a contrata.\nAa 2 Grado 42, Rango Bi, calidad en propiedad.\nLUIS ALBERTO ROJAS FAUNDEZ\nDe: Gredo 4€, Rango Bi, calidad a contrata.\n& : Grado 48, Rango Bi, calidad en propicaad.\nANCEL ALFREDO ARAYA PEÑA\nDe: Grado 42, Raneo Bi, calided a contrata.\nAo: Grado 48, Rango Bi, cal:dad en propiedad.",
+      "text": ", ] 3\n2. -— Ecosraros de Postitule.\nSe acuerda crear los Postitulus de Esoecilalisti en Melodo-\nlogia ae la Enseñanza uel Castelianos Esirniciadinta cis\nHotodoluglía de la Enseñania «de la ibistorla y Gagecor fa de\nChile y de Especialista en Metodología de da liuscfiatiza Gel\ninglés.\nDespués de explicar las razvones due se tuvieron em cuenta\npara decidir enviar un solo proyecto centralizado de\npostitulos, se discuten los terminos en que se adulnistra-\nran los posibles excedentes y la acdtaimistración « Carso de\nDeceneato. Esto, en virtud del Ord. NG3? del 11.05.91 del\nDirector General de Planificación e Informática que señala\ntextualiente, \"los proyectos de Asistencia y Prestacion de\nServicios que generen excedentes brutes que superen los iw\n5.000.060.) tendrán para su libre disposición del 190% dee\naGuelia parte que supere dicha cantidad), vale decir, tio\nhabcá deducción del 25% de contribución para lia £felinitiics-\ntración centralizada”. Considerando los beneficios que\ndevengara la lieplementación de oun provecto Único adchisis-\ntrado por Decanelo se toman 105 sliulentes acu. ios:\n2.1 Establecer un criterio de distribución ¿noisic2irtaca dl,\n- cor: el numero de alutinos atendidos por Deraiinimziidto.\n2.2 Los Directores de Departamentos invertirán les nta -\ndentes en Función de las prioridades de decarroliso\nestablecidas por el Conocio. due Facultad sobe lía ivan:\nde las proposiciones y necesidades establecidas 1101\nsus diferentes unidades.\n2.3 Los porcentajes de diuotribución serán los Gu: va\nindican:\n- Dentro de los márgenes establecidos por el mono ce\n19.000.000. -\n95% para los Departamentos Académicos\n257% para Casá Central\n10% para lecanato\n- Sobre los márgenes estublecidss oor el mmritis dde\n$5.000.000. -\n_ S0% para los Departamentos Acudemicos\n20% para Decanato\nVarios.\n- £ proposición del señor Director del Depertaeorto de\nidiomas se aprueba el cambio en la calidad del moti sci:\nto de los siguientes acadéiicos Jornada Complete, ís Comba:\ndei 1 de Julio de 1991.\nNAIN APRAHAM ROMEZ DIAZ\nDe: Grado 529, Rango Be, calidad a contrata.\nAa 2 Grado 42, Rango Bi, calidad en propiedad.\nLUIS ALBERTO ROJAS FAUNDEZ\nDe: Gredo 4€, Rango Bi, calidad a contrata.\n& : Grado 48, Rango Bi, calidad en propicaad.\nANCEL ALFREDO ARAYA PEÑA\nDe: Grado 42, Raneo Bi, calided a contrata.\nAo: Grado 48, Rango Bi, cal:dad en propiedad."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 381.9774169921875,
+            "t": 946.8618965148926,
+            "r": 528.2401123046875,
+            "b": 902.9994812011719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 332.4568786621094,
+            "t": 744.7621154785156,
+            "r": 565.4911499023438,
+            "b": 587.2775573730469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 53.64877700805664,
+            "t": 925.8477325439453,
+            "r": 213.8746337890625,
+            "b": 815.4097747802734,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 331.8067932128906,
+            "t": 585.3349609375,
+            "r": 512.83544921875,
+            "b": 486.4114990234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 1008.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 1008.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 1008.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 1008.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 612.0,
+        "height": 1008.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 612.0,
+        "height": 1008.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 612.0,
+        "height": 1008.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 612.0,
+        "height": 1008.0
+      },
+      "page_no": 8
+    }
+  }
+}

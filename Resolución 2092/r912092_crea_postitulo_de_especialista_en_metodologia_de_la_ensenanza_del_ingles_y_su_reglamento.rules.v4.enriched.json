@@ -1,0 +1,1264 @@
+{
+  "schema_version": "4.0",
+  "pipeline_version": "4.0.0",
+  "source_file": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\input\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.pdf",
+  "pipeline": {
+    "ocr_mode": "auto",
+    "docling_ocr_used": true,
+    "ocr_decision": "texto_total_bajo:0",
+    "ocr_engine": "tesseract_cli",
+    "document_quality": {
+      "score": 0.998,
+      "status": "ok",
+      "ocr_used": true,
+      "pages": [
+        {
+          "page": 1,
+          "chars": 1921,
+          "alpha_ratio": 0.802,
+          "token_quality": 1.0,
+          "score": 1.0,
+          "status": "ok",
+          "signals": []
+        },
+        {
+          "page": 2,
+          "chars": 1594,
+          "alpha_ratio": 0.838,
+          "token_quality": 1.0,
+          "score": 1.0,
+          "status": "ok",
+          "signals": []
+        },
+        {
+          "page": 3,
+          "chars": 1828,
+          "alpha_ratio": 0.827,
+          "token_quality": 1.0,
+          "score": 0.989,
+          "status": "ok",
+          "signals": []
+        },
+        {
+          "page": 4,
+          "chars": 2040,
+          "alpha_ratio": 0.801,
+          "token_quality": 1.0,
+          "score": 1.0,
+          "status": "ok",
+          "signals": []
+        },
+        {
+          "page": 5,
+          "chars": 2096,
+          "alpha_ratio": 0.821,
+          "token_quality": 1.0,
+          "score": 1.0,
+          "status": "ok",
+          "signals": []
+        },
+        {
+          "page": 6,
+          "chars": 422,
+          "alpha_ratio": 0.827,
+          "token_quality": 1.0,
+          "score": 1.0,
+          "status": "ok",
+          "signals": []
+        },
+        {
+          "page": 7,
+          "chars": 558,
+          "alpha_ratio": 0.729,
+          "token_quality": 1.0,
+          "score": 1.0,
+          "status": "ok",
+          "signals": []
+        },
+        {
+          "page": 8,
+          "chars": 2352,
+          "alpha_ratio": 0.766,
+          "token_quality": 1.0,
+          "score": 0.998,
+          "status": "ok",
+          "signals": []
+        }
+      ],
+      "signals": []
+    },
+    "ocr_adaptive_details": {
+      "adaptive": true,
+      "base_dpi": 350,
+      "rescue_dpi": 600,
+      "direct_dpi": 350,
+      "base_quality": {
+        "score": 0.844,
+        "status": "ok",
+        "ocr_used": true,
+        "pages": [
+          {
+            "page": 1,
+            "chars": 1921,
+            "alpha_ratio": 0.802,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 2,
+            "chars": 1594,
+            "alpha_ratio": 0.838,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 3,
+            "chars": 1828,
+            "alpha_ratio": 0.827,
+            "token_quality": 1.0,
+            "score": 0.989,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 4,
+            "chars": 2131,
+            "alpha_ratio": 0.683,
+            "token_quality": 0.995,
+            "score": 0.56,
+            "status": "review",
+            "signals": [
+              "possible_orientation_or_reversed_text",
+              "high_symbol_noise"
+            ]
+          },
+          {
+            "page": 5,
+            "chars": 2084,
+            "alpha_ratio": 0.821,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 6,
+            "chars": 443,
+            "alpha_ratio": 0.614,
+            "token_quality": 1.0,
+            "score": 0.872,
+            "status": "ok",
+            "signals": [
+              "possible_orientation_or_reversed_text"
+            ]
+          },
+          {
+            "page": 7,
+            "chars": 558,
+            "alpha_ratio": 0.729,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 8,
+            "chars": 2308,
+            "alpha_ratio": 0.658,
+            "token_quality": 1.0,
+            "score": 0.568,
+            "status": "review",
+            "signals": [
+              "possible_orientation_or_reversed_text"
+            ]
+          }
+        ],
+        "signals": [
+          "review_pages:4,8"
+        ]
+      },
+      "rescue_triggered": true,
+      "rescue_pages": [
+        {
+          "page": 4,
+          "dpi": 600,
+          "selected_rotation": 0,
+          "orientation_candidates": [
+            {
+              "rotation": 0,
+              "mean_confidence": 92.95,
+              "language_score": 1.0,
+              "reversed_penalty": 0.0,
+              "text_chars": 2067,
+              "score": 0.872
+            },
+            {
+              "rotation": 180,
+              "mean_confidence": 34.41,
+              "language_score": 0.0,
+              "reversed_penalty": 1.0,
+              "text_chars": 2143,
+              "score": -0.046
+            }
+          ],
+          "preprocessing": [
+            "flatten_page_rotation",
+            "grayscale",
+            "clahe",
+            "median_blur",
+            "otsu",
+            "deskew:0.50"
+          ]
+        },
+        {
+          "page": 6,
+          "dpi": 600,
+          "selected_rotation": 0,
+          "orientation_candidates": [
+            {
+              "rotation": 0,
+              "mean_confidence": 86.94,
+              "language_score": 1.0,
+              "reversed_penalty": 0.0,
+              "text_chars": 549,
+              "score": 0.8312
+            },
+            {
+              "rotation": 180,
+              "mean_confidence": 31.45,
+              "language_score": 0.0,
+              "reversed_penalty": 0.5,
+              "text_chars": 593,
+              "score": 0.0738
+            }
+          ],
+          "preprocessing": [
+            "flatten_page_rotation",
+            "grayscale",
+            "clahe",
+            "median_blur",
+            "otsu",
+            "deskew:-0.61"
+          ]
+        },
+        {
+          "page": 8,
+          "dpi": 600,
+          "selected_rotation": 0,
+          "orientation_candidates": [
+            {
+              "rotation": 0,
+              "mean_confidence": 81.33,
+              "language_score": 1.0,
+              "reversed_penalty": 0.0,
+              "text_chars": 2309,
+              "score": 0.7931
+            },
+            {
+              "rotation": 180,
+              "mean_confidence": 28.65,
+              "language_score": 0.045,
+              "reversed_penalty": 1.0,
+              "text_chars": 2343,
+              "score": -0.0744
+            }
+          ],
+          "preprocessing": [
+            "flatten_page_rotation",
+            "grayscale",
+            "clahe",
+            "median_blur",
+            "otsu",
+            "deskew:-0.18"
+          ]
+        }
+      ],
+      "selected_pass": "direct_rescue",
+      "rescue_quality": {
+        "score": 0.927,
+        "status": "ok",
+        "ocr_used": true,
+        "pages": [
+          {
+            "page": 1,
+            "chars": 1921,
+            "alpha_ratio": 0.802,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 2,
+            "chars": 1594,
+            "alpha_ratio": 0.838,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 3,
+            "chars": 1828,
+            "alpha_ratio": 0.827,
+            "token_quality": 1.0,
+            "score": 0.989,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 4,
+            "chars": 2040,
+            "alpha_ratio": 0.801,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 5,
+            "chars": 2096,
+            "alpha_ratio": 0.821,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 6,
+            "chars": 422,
+            "alpha_ratio": 0.827,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 7,
+            "chars": 558,
+            "alpha_ratio": 0.729,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 8,
+            "chars": 2202,
+            "alpha_ratio": 0.701,
+            "token_quality": 1.0,
+            "score": 0.588,
+            "status": "review",
+            "signals": [
+              "possible_orientation_or_reversed_text"
+            ]
+          }
+        ],
+        "signals": [
+          "review_pages:8"
+        ]
+      },
+      "direct_fallback": {
+        "triggered": true,
+        "pages": [
+          {
+            "dpi": 350,
+            "selected_rotation": 0,
+            "selected_psm": 6,
+            "selected_score": 0.7433,
+            "selected_mean_confidence": 68.28,
+            "selected_language_score": 1.0,
+            "orientation_candidates": [
+              {
+                "rotation": 0,
+                "mean_confidence": 81.09,
+                "language_score": 1.0,
+                "reversed_penalty": 0.0,
+                "text_chars": 2300,
+                "score": 0.7914
+              },
+              {
+                "rotation": 90,
+                "mean_confidence": 40.05,
+                "language_score": 0.043,
+                "reversed_penalty": 0.0,
+                "text_chars": 2793,
+                "score": 0.2826
+              },
+              {
+                "rotation": 180,
+                "mean_confidence": 29.27,
+                "language_score": 0.047,
+                "reversed_penalty": 1.0,
+                "text_chars": 2285,
+                "score": -0.0697
+              },
+              {
+                "rotation": 270,
+                "mean_confidence": 37.64,
+                "language_score": 0.117,
+                "reversed_penalty": 0.0,
+                "text_chars": 2784,
+                "score": 0.2841
+              }
+            ],
+            "psm_candidates": [
+              {
+                "rotation": 0,
+                "psm": 6,
+                "mean_confidence": 68.28,
+                "language_score": 1.0,
+                "reversed_penalty": 0.0,
+                "text_chars": 2352,
+                "score": 0.7433
+              },
+              {
+                "rotation": 0,
+                "psm": 3,
+                "mean_confidence": 67.26,
+                "language_score": 1.0,
+                "reversed_penalty": 0.0,
+                "text_chars": 2333,
+                "score": 0.737
+              },
+              {
+                "rotation": 0,
+                "psm": 11,
+                "mean_confidence": 67.4,
+                "language_score": 1.0,
+                "reversed_penalty": 0.0,
+                "text_chars": 2399,
+                "score": 0.7379
+              }
+            ],
+            "text_chars": 2352,
+            "page": 8,
+            "previous_page_score": 0.588,
+            "applied": true,
+            "trial_page_score": 0.903
+          }
+        ],
+        "selected": true
+      },
+      "critical_region_consensus": {
+        "triggered": true,
+        "dpi": 600,
+        "top_ratio": 0.4,
+        "candidates": [
+          {
+            "profile": "gray_autocontrast",
+            "psm": 11,
+            "mean_confidence": 83.9,
+            "text_preview": "¡mu UNIVERSIDAD DE SANTIAGO DE CHILE FACULTAD DE HUMANIDADES - ls AENTO CREA PROGRAMA DE POSTITULO DE ESPE-— CIALISTA EN METODOLOGÍA DE LA ENSE-— NANZA DEL INGLES Y APRUEBA SU RE— GLAMENTO DE REGIMEN ACADEMICO. a SANTIAGO , 19.301.199 2092 VISTOS: lo dispuesto en el D.F.L. 149 de 1981 las facultades que me confiere el Art. 6.10 de la Resolución N2£ 84i del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 9£8 del 4 de junio de 1991, RESOU E L VO: ARTICULO 1 Créase el Programa de Postituilo de Especialista en Metodologia de la Enseñanza del Inglés. La selección y admisión a este Programa de Posti- A tulo estará a cargo de la Facultad de Humanidades, A yaa pasa P— 1 LT"
+          },
+          {
+            "profile": "gray_autocontrast",
+            "psm": 12,
+            "mean_confidence": 82.84,
+            "text_preview": "¡mu UNIVERSIDAD DE SANTIAGO DE CHILE FACULTAD DE HUMANIDADES - ls =XENTO CREA PROGRAMA DE POSTITULO DE ESPE-— CIALISTA EN METODOLOGÍA DE LA ENSE-— NANZA DEL INGLES Y APRUEBA SU RE— GLAMENTO DE REGIMEN ACADEMICO. a SANTIAGO , 19.301.199 2092 VISTOS: lo dispuesto en el D.F.L. 149 de 1981 las facultades que me confiere el Art. 6.10 de la Resolución N2£ 84i del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 9£8 del 4 de junio de 1991, RESUELVO: ARTICULO 1 Créase el Programa de Postituilo de Especialista en Metodologia de la Enseñanza del Inglés. La selección y admisión a este Programa de Posti- A tulo estará a cargo de la Facultad de Humanidades, A yaa pasa P— 1 LT"
+          },
+          {
+            "profile": "sharpen",
+            "psm": 11,
+            "mean_confidence": 76.8,
+            "text_preview": "L. UNIVERSIDAD DE SANTIAGO DE CHILE FACULTAD DE HUMANIDADES o =AENTO CREA PROGRAMA DE POSTITULO DE ESPE-— CIALISTA EN METODOLOGÍA DE LA ENSE-— NANZA DEL INGLES Y APRUEBA SU RE— GLAMENTO DE REGIMEN ACADEMICO. a € XX PX XX XXX PX XX PX PfPX[ XX A o O O 7 O PS O PP PP PP 7 PP PP PP PP PPP o o. SANTIAGO , 19J01,1991 2092 VISTOS: lo dispuesto en el D.F.L. 149 de 1981 las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 46 Ude junio de 1991, RESOU E L VO: ARTICULO 1 CrFe6sse el Programa de Postituilo de Especialista en Metodologia de la Enseñanza del Inglés. La selección y admisión a este Programa de Posti- pa tulo estará a cargo de la Facultad de Humanidades, A FE A pz ue NL"
+          },
+          {
+            "profile": "sharpen",
+            "psm": 12,
+            "mean_confidence": 76.24,
+            "text_preview": "L. UNIVERSIDAD DE SANTIAGO DE CHILE FACULTAD DE HUMANIDADES o =XENTO CREA PROGRAMA DE POSTITULO DE ESPE-— CIALISTA EN METODOLOGÍA DE LA ENSE-— NANZA DEL INGLES Y APRUEBA SU RE— GLAMENTO DE REGIMEN ACADEMICO. a € XX PX XX XXX PX XX PX PfPX[ XX A o O O 7 O PS O PP PP PP 7 PP PP PP PP PPP o o. SANTIAGO , 19J01,1991 2092 VISTOS: lo dispuesto en el D.F.L. 149 de 1981 las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 46 Ude junio de 1991, RESUELVO: ARTICULO 1 CrFe6sse el Programa de Postituilo de Especialista en Metodologia de la Enseñanza del Inglés. La selección y admisión a este Programa de Posti- pa tulo estará a cargo de la Facultad de Humanidades, A FE A pz ue NL"
+          },
+          {
+            "profile": "clahe_otsu",
+            "psm": 11,
+            "mean_confidence": 77.45,
+            "text_preview": "UNIVERSIDAD DE SANTIAGO DE CHILE FACULTAD DE HUMANIDADES =AENTO CREA PROGRAMA DE POSTITULO DE ESPE-— CIALIÍSTA EN METODOLOGÍA DE LA ENSE-— NANZA DEL INGLES Y APRUEBA SU RE-— GLAMENTO DE REGIMEN ACADEMICO. CI CS E CU, GAS, GR, CS CE A UA TG UT A O, CUA, E CO FR CIO ES CU CO SS a IA, AU A E UU CU CTS O Ta CS 2092 SANTIAGO, 19.01.1991 VISTOS: lo dispuesto en el D.F.L. 149 de 1981 las facultades que me confiere el Art. 6.10 de la Resolución N2£ 84i del 2 de mayo de 1988, y el acuerdo del tonsejo de Facultad de Humanidades, en su sesión N 96 del 4 de junio de 1991, RESUEL OY O: ARTICULO 1 Créase el Programa de Postitulo de Especialista en Metodologia de la Enseñanza del Inglés. La selección y admisión a este Programa de Posti- pr tulo estará a cargo de la Facultad de Humanidades, a a. a o"
+          },
+          {
+            "profile": "clahe_otsu",
+            "psm": 12,
+            "mean_confidence": 77.26,
+            "text_preview": "UNIVERSIDAD DE SANTIAGO DE CHILE FACULTAD DE HUMANIDADES ZXENTO CREA PROGRAMA DE POSTITULO DE ESPE-— CIALIÍSTA EN METODOLOGÍA DE LA ENSE-— NANZA DEL INGLES Y APRUEBA SU RE-— GLAMENTO DE REGIMEN ACADEMICO. CI CS E CU, GAS, GR, CS CE A UA TG UT A O, CUA, E CO FR CIO ES CU CO SS a IA, AU A E UU CU CTS O Ta CS 2092 SANTIAGO, 19.01.1991 VISTOS: lo dispuesto en el D.F.L. 149 de 1981 las facultades que me confiere el Art. 6.10 de la Resolución N2£ 84i del 2 de mayo de 1988, y el acuerdo del tonsejo de Facultad de Humanidades, en su sesión N 96 del 4 de junio de 1991, RESUEL OY O: ARTICULO 1 Créase el Programa de Postitulo de Especialista en Metodologia de la Enseñanza del Inglés. La selección y admisión a este Programa de Posti- pr tulo estará a cargo de la Facultad de Humanidades, a a. a o"
+          },
+          {
+            "profile": "adaptive_threshold",
+            "psm": 11,
+            "mean_confidence": 84.59,
+            "text_preview": "Bras h UNIVERSIDAD DE SANTIAGO DE CHILE FACULTAD DE HUMANIDADES E CREA PROGRAMA DE POSTITULO DE ESPE- CIALIÍSTA EN METODOLOGIA DE LA ENSE- SNANZA DEL INGLES Y APRUEBA SU RE— GLAMENTO DE REGIMEN ACADEMICO. SANTIAGO », 19 J01.4991. 2092 VISTOS: lo dispuesto en el D.F.L. 149 de 1981; las facultades que me confiere 6.10 de la Resolución N2 841 del 2 de mayo de 1288, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del ¿4 de junio de 1991, RESUELVO: ARTICULO 1 Créase el Programa de Postítulo de Especialista na en Metodología de la Enseñanza del Inglés. La selección y admisión a este Programa de Posti- a tulo esta mea . rá a Cc arg o o de la Facultad de Humanidades,"
+          },
+          {
+            "profile": "adaptive_threshold",
+            "psm": 12,
+            "mean_confidence": 84.11,
+            "text_preview": "T Ll Bras h UNIVERSIDAD DE SANTIAGO DE CHILE FACULTAD DE HUMANIDADES e, E CREA PROGRAMA DE POSTITULO DE ESPE- CIALIÍSTA EN METODOLOGIA DE LA ENSE- SNANZA DEL INGLES Y APRUEBA SU RE— GLAMENTO DE REGIMEN ACADEMICO. SANTIAGO », 19 J01.4991. 2092 VISTOS: lo dispuesto en el D.F.L. 149 de 1981; las facultades que me confiere 6.10 de la Resolución N2 841 del 2 de mayo de 1288, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del ¿4 de junio de 1991, RESUELVO: ARTICULO 1 Créase el Programa de Postítulo de Especialista na en Metodología de la Enseñanza del Inglés. La selección y admisión a este Programa de Posti- a tulo esta mea . rá a Cc arg o o de la Facultad de Humanidades,"
+          }
+        ],
+        "anchor_votes": {
+          "SANTIAGO": 8,
+          "VISTOS": 8,
+          "RESUELVO": 4
+        },
+        "repairs": [
+          {
+            "from": "sanriaco,",
+            "to": "SANTIAGO,",
+            "anchor": "SANTIAGO",
+            "votes": 8,
+            "similarity": 0.75
+          }
+        ],
+        "consensus_facts": {
+          "dfl": {
+            "value": [
+              "149",
+              1981
+            ],
+            "votes": 8,
+            "alternatives": [
+              {
+                "value": [
+                  "149",
+                  1981
+                ],
+                "votes": 8
+              }
+            ]
+          },
+          "resolucion": {
+            "value": [
+              "84",
+              1988
+            ],
+            "votes": 4,
+            "alternatives": [
+              {
+                "value": [
+                  "84",
+                  1988
+                ],
+                "votes": 4
+              },
+              {
+                "value": [
+                  "841",
+                  1988
+                ],
+                "votes": 2
+              },
+              {
+                "value": [
+                  "841",
+                  1288
+                ],
+                "votes": 2
+              }
+            ]
+          },
+          "sesion": {
+            "value": [
+              "96",
+              4,
+              1991
+            ],
+            "votes": 4,
+            "alternatives": [
+              {
+                "value": [
+                  "96",
+                  4,
+                  1991
+                ],
+                "votes": 4
+              },
+              {
+                "value": [
+                  "9",
+                  4,
+                  1991
+                ],
+                "votes": 2
+              }
+            ]
+          }
+        }
+      },
+      "selected_quality": {
+        "score": 0.981,
+        "status": "ok",
+        "ocr_used": true,
+        "pages": [
+          {
+            "page": 1,
+            "chars": 1921,
+            "alpha_ratio": 0.802,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 2,
+            "chars": 1594,
+            "alpha_ratio": 0.838,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 3,
+            "chars": 1828,
+            "alpha_ratio": 0.827,
+            "token_quality": 1.0,
+            "score": 0.989,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 4,
+            "chars": 2040,
+            "alpha_ratio": 0.801,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 5,
+            "chars": 2096,
+            "alpha_ratio": 0.821,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 6,
+            "chars": 422,
+            "alpha_ratio": 0.827,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 7,
+            "chars": 558,
+            "alpha_ratio": 0.729,
+            "token_quality": 1.0,
+            "score": 1.0,
+            "status": "ok",
+            "signals": []
+          },
+          {
+            "page": 8,
+            "chars": 2352,
+            "alpha_ratio": 0.766,
+            "token_quality": 1.0,
+            "score": 0.903,
+            "status": "ok",
+            "signals": [],
+            "heuristic_score": 0.998,
+            "ocr_confidence": 68.28
+          }
+        ],
+        "signals": []
+      }
+    },
+    "metadata_checks": [],
+    "logical_document_detection": {
+      "primary_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "documents": [
+        {
+          "index": 1,
+          "kind": "principal",
+          "pages": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "start_page": 1,
+          "end_page": 6,
+          "signals": [
+            "closing_block",
+            "date_place",
+            "institution_header",
+            "minutes_or_session",
+            "normative_heading"
+          ],
+          "boundary_signals": [],
+          "quality_statuses": {
+            "1": "ok",
+            "2": "ok",
+            "3": "ok",
+            "4": "ok",
+            "5": "ok",
+            "6": "ok"
+          },
+          "chars": 9906
+        },
+        {
+          "index": 2,
+          "kind": "memorando_o_anexo",
+          "pages": [
+            7,
+            8
+          ],
+          "start_page": 7,
+          "end_page": 8,
+          "signals": [
+            "closing_block",
+            "correspondence_fields",
+            "date_place",
+            "institution_header",
+            "memorandum",
+            "minutes_or_session"
+          ],
+          "boundary_signals": [
+            "correspondence_restart"
+          ],
+          "quality_statuses": {
+            "7": "ok",
+            "8": "ok"
+          },
+          "chars": 2911
+        }
+      ],
+      "signals": [
+        "multiple_logical_documents"
+      ]
+    },
+    "primary_extraction_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "excluded_pages": [
+      7,
+      8
+    ],
+    "entity_extractor": "rules",
+    "model": null,
+    "model_reused": false,
+    "gliner_stats": null,
+    "ocr_reference_rescue": {
+      "triggered": true,
+      "rescued": [
+        {
+          "tipo": "DFL",
+          "numero": "149",
+          "anio": 1981,
+          "pagina": 1,
+          "fuente": "ocr_reference_rescue",
+          "estado": "REVIEW",
+          "evidencia_ocr": "D.F.L. 149 de 1981",
+          "fragmento_docling": "149 de 1981; VISTOS: lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991,",
+          "bloques_fuente": [
+            "#/texts/7"
+          ],
+          "motivo": "Referencia fragmentada por orden de lectura",
+          "votes": 8
+        }
+      ],
+      "proposals": [],
+      "skipped": [],
+      "consensus": {
+        "tipo": "DFL",
+        "numero": "149",
+        "anio": 1981,
+        "votes": 8,
+        "alternatives": [
+          {
+            "value": [
+              "149",
+              1981
+            ],
+            "votes": 8
+          }
+        ]
+      }
+    },
+    "rules_validation": {
+      "candidates": 2,
+      "validated": 2,
+      "rejected": []
+    },
+    "entity_resolution": "tipo+numero + aliases conservadores + lexical type precedence + quality filter",
+    "relation_extraction": "reglas juridicas + anafora explicita + evidencia localizada + alcance",
+    "canonicalization": "document != norm != mention; deterministic IDs; provenance + status",
+    "timings_seconds": {
+      "model_load": null,
+      "docling_conversion": 126.074747,
+      "quality_assessment": 0.002086,
+      "logical_segmentation": 0.0027,
+      "rules_extraction": 0.004285,
+      "gliner_extraction": null,
+      "ocr_reference_rescue": 0.000607,
+      "entity_resolution": 0.000179,
+      "relation_extraction": 0.003588,
+      "canonicalization": 0.00771,
+      "canonical_write": 0.012049,
+      "document_total": 126.108154
+    },
+    "processing_stats": {
+      "pages": 6,
+      "characters": 9911,
+      "passages": 19,
+      "norms": 5,
+      "relations": 3,
+      "chars_per_second": 78.591,
+      "pages_per_second": 0.048,
+      "ocr_used": true,
+      "model_reused": false
+    }
+  },
+  "artifacts": {
+    "docling_markdown": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\output\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.docling.md",
+    "docling_json": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\output\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.docling.json",
+    "canonical": {
+      "documents": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\output\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.canonical.v4\\documents.ndjson",
+      "norms": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\output\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.canonical.v4\\norms.ndjson",
+      "relations": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\output\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.canonical.v4\\relations.ndjson",
+      "passages": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\output\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.canonical.v4\\passages.ndjson",
+      "manifest": "C:\\Users\\cgarr\\OneDrive\\Desktop\\docling_normative_graph_v4\\output\\r912092_crea_postitulo_de_especialista_en_metodologia_de_la_ensenanza_del_ingles_y_su_reglamento.canonical.v4\\manifest.json"
+    }
+  },
+  "canonical_summary": {
+    "document_id": "doc-resolucion-2092-1991",
+    "norm_id": "resolucion-2092-1991",
+    "status": "VALIDATED",
+    "counts": {
+      "documents": 1,
+      "norms": 5,
+      "relations": 3,
+      "passages": 19,
+      "observed_operations": 2
+    },
+    "warnings": [
+      "norms_require_review",
+      "out_of_ontology_operations_preserved"
+    ]
+  },
+  "extraction": {
+    "documento_principal": {
+      "tipo": "RESOLUCION",
+      "numero": "2092",
+      "anio": 1991,
+      "fecha": "1991-07-19",
+      "fecha_texto_original": "19/07/1991",
+      "titulo": "CREA PROGRAMA DE POSTITULO DE ESPECIALISTA EN METODOLOGIA DE LA ENSENANZA DEL INGLES Y APRUEBA SU REGLAMENTO DE REGIMEN ACADEMICO",
+      "texto_original": "Resolucion 2092, de 1991",
+      "pagina": 1,
+      "fuente": "metadata",
+      "variantes": [],
+      "fecha_contextual": null,
+      "evidencia_ocr": null,
+      "fragmento_docling": null,
+      "motivo_revision": null,
+      "bloques_fuente": []
+    },
+    "normativas_mencionadas": [
+      {
+        "tipo": "RESOLUCION",
+        "numero": "841",
+        "anio": 1988,
+        "fecha": "1988-05-02",
+        "fecha_texto_original": "2 de mayo de 1988",
+        "titulo": null,
+        "texto_original": "Resolución N2 841",
+        "pagina": 1,
+        "fuente": "resolver",
+        "variantes": [
+          "Resolución N2 841"
+        ],
+        "fecha_contextual": null,
+        "evidencia_ocr": null,
+        "fragmento_docling": null,
+        "motivo_revision": null,
+        "bloques_fuente": []
+      },
+      {
+        "tipo": "DFL",
+        "numero": "149",
+        "anio": 1981,
+        "fecha": null,
+        "fecha_texto_original": null,
+        "titulo": null,
+        "texto_original": "D.F.L. 149 de 1981",
+        "pagina": 1,
+        "fuente": "resolver",
+        "variantes": [
+          "D.F.L. 149 de 1981"
+        ],
+        "fecha_contextual": null,
+        "evidencia_ocr": "D.F.L. 149 de 1981",
+        "fragmento_docling": "149 de 1981; VISTOS: lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991,",
+        "motivo_revision": "Referencia fragmentada por orden de lectura",
+        "bloques_fuente": [
+          "#/texts/7"
+        ]
+      },
+      {
+        "tipo": "ACUERDO",
+        "numero": null,
+        "anio": 1991,
+        "fecha": null,
+        "fecha_texto_original": null,
+        "titulo": "acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991",
+        "texto_original": "acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991",
+        "pagina": 1,
+        "fuente": "regex_acuerdo",
+        "variantes": [
+          "acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991"
+        ],
+        "fecha_contextual": "06/06/1991",
+        "evidencia_ocr": null,
+        "fragmento_docling": null,
+        "motivo_revision": null,
+        "bloques_fuente": []
+      }
+    ],
+    "relaciones": [
+      {
+        "origen": {
+          "tipo": "RESOLUCION",
+          "numero": "2092",
+          "anio": 1991,
+          "fecha": "1991-07-19",
+          "fecha_texto_original": "19/07/1991",
+          "titulo": "CREA PROGRAMA DE POSTITULO DE ESPECIALISTA EN METODOLOGIA DE LA ENSENANZA DEL INGLES Y APRUEBA SU REGLAMENTO DE REGIMEN ACADEMICO",
+          "texto_original": "Resolucion 2092, de 1991",
+          "pagina": 1,
+          "fuente": "metadata",
+          "variantes": [],
+          "fecha_contextual": null,
+          "evidencia_ocr": null,
+          "fragmento_docling": null,
+          "motivo_revision": null,
+          "bloques_fuente": []
+        },
+        "relacion": "APRUEBA",
+        "destino": {
+          "tipo": "REGLAMENTO",
+          "numero": null,
+          "anio": null,
+          "fecha": null,
+          "fecha_texto_original": null,
+          "titulo": "REGLAMENTO DE REGIMEN ACADEMICO",
+          "texto_original": "REGLAMENTO DE REGIMEN ACADEMICO",
+          "pagina": 1,
+          "fuente": "regla",
+          "variantes": [
+            "REGLAMENTO DE REGIMEN ACADEMICO"
+          ],
+          "fecha_contextual": null,
+          "evidencia_ocr": null,
+          "fragmento_docling": null,
+          "motivo_revision": null,
+          "bloques_fuente": []
+        },
+        "evidencia": "Y APRUEBA SU REGLAMENTO DE REGIMEN ACADEMICO",
+        "pagina": 1,
+        "metodo": "regla_aprueba_titulo",
+        "evidencias": [
+          {
+            "texto": "Y APRUEBA SU REGLAMENTO DE REGIMEN ACADEMICO",
+            "pagina": 1,
+            "fuente": "titulo"
+          }
+        ],
+        "operacion": "APRUEBA",
+        "alcance": null
+      },
+      {
+        "origen": {
+          "tipo": "RESOLUCION",
+          "numero": "2092",
+          "anio": 1991,
+          "fecha": "1991-07-19",
+          "fecha_texto_original": "19/07/1991",
+          "titulo": "CREA PROGRAMA DE POSTITULO DE ESPECIALISTA EN METODOLOGIA DE LA ENSENANZA DEL INGLES Y APRUEBA SU REGLAMENTO DE REGIMEN ACADEMICO",
+          "texto_original": "Resolucion 2092, de 1991",
+          "pagina": 1,
+          "fuente": "metadata",
+          "variantes": [],
+          "fecha_contextual": null,
+          "evidencia_ocr": null,
+          "fragmento_docling": null,
+          "motivo_revision": null,
+          "bloques_fuente": []
+        },
+        "relacion": "REFERENCIA",
+        "destino": {
+          "tipo": "RESOLUCION",
+          "numero": "841",
+          "anio": 1988,
+          "fecha": "1988-05-02",
+          "fecha_texto_original": "2 de mayo de 1988",
+          "titulo": null,
+          "texto_original": "Resolución N2 841",
+          "pagina": 1,
+          "fuente": "resolver",
+          "variantes": [
+            "Resolución N2 841"
+          ],
+          "fecha_contextual": null,
+          "evidencia_ocr": null,
+          "fragmento_docling": null,
+          "motivo_revision": null,
+          "bloques_fuente": []
+        },
+        "evidencia": "lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991",
+        "pagina": 1,
+        "metodo": "regla_vistos",
+        "evidencias": [
+          {
+            "texto": "lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991",
+            "pagina": 1,
+            "fuente": "VISTOS"
+          }
+        ],
+        "operacion": "CITA",
+        "alcance": null
+      },
+      {
+        "origen": {
+          "tipo": "RESOLUCION",
+          "numero": "2092",
+          "anio": 1991,
+          "fecha": "1991-07-19",
+          "fecha_texto_original": "19/07/1991",
+          "titulo": "CREA PROGRAMA DE POSTITULO DE ESPECIALISTA EN METODOLOGIA DE LA ENSENANZA DEL INGLES Y APRUEBA SU REGLAMENTO DE REGIMEN ACADEMICO",
+          "texto_original": "Resolucion 2092, de 1991",
+          "pagina": 1,
+          "fuente": "metadata",
+          "variantes": [],
+          "fecha_contextual": null,
+          "evidencia_ocr": null,
+          "fragmento_docling": null,
+          "motivo_revision": null,
+          "bloques_fuente": []
+        },
+        "relacion": "REFERENCIA",
+        "destino": {
+          "tipo": "DFL",
+          "numero": "149",
+          "anio": 1981,
+          "fecha": null,
+          "fecha_texto_original": null,
+          "titulo": null,
+          "texto_original": "D.F.L. 149 de 1981",
+          "pagina": 1,
+          "fuente": "resolver",
+          "variantes": [
+            "D.F.L. 149 de 1981"
+          ],
+          "fecha_contextual": null,
+          "evidencia_ocr": "D.F.L. 149 de 1981",
+          "fragmento_docling": "149 de 1981; VISTOS: lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991,",
+          "motivo_revision": "Referencia fragmentada por orden de lectura",
+          "bloques_fuente": [
+            "#/texts/7"
+          ]
+        },
+        "evidencia": "OCR alternativo: D.F.L. 149 de 1981 | Fragmento Docling: 149 de 1981; VISTOS: lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991,",
+        "pagina": 1,
+        "metodo": "ocr_reference_rescue",
+        "evidencias": [
+          {
+            "texto": "D.F.L. 149 de 1981",
+            "pagina": 1,
+            "fuente": "ocr_reference_rescue"
+          },
+          {
+            "texto": "149 de 1981; VISTOS: lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991,",
+            "pagina": 1,
+            "fuente": "docling_fragment"
+          }
+        ],
+        "operacion": "CITA",
+        "alcance": null
+      }
+    ]
+  },
+  "graph": {
+    "nodes": [
+      {
+        "id": "resolucion-2092-1991",
+        "tipo": "RESOLUCION",
+        "numero": "2092",
+        "anio": 1991,
+        "fecha": "1991-07-19",
+        "fecha_texto_original": "19/07/1991",
+        "titulo": "CREA PROGRAMA DE POSTITULO DE ESPECIALISTA EN METODOLOGIA DE LA ENSENANZA DEL INGLES Y APRUEBA SU REGLAMENTO DE REGIMEN ACADEMICO",
+        "texto_original": "Resolucion 2092, de 1991",
+        "pagina": 1,
+        "fuente": "metadata",
+        "variantes": [],
+        "fecha_contextual": null,
+        "evidencia_ocr": null,
+        "fragmento_docling": null,
+        "motivo_revision": null,
+        "bloques_fuente": []
+      },
+      {
+        "id": "resolucion-841-1988",
+        "tipo": "RESOLUCION",
+        "numero": "841",
+        "anio": 1988,
+        "fecha": "1988-05-02",
+        "fecha_texto_original": "2 de mayo de 1988",
+        "titulo": null,
+        "texto_original": "Resolución N2 841",
+        "pagina": 1,
+        "fuente": "resolver",
+        "variantes": [
+          "Resolución N2 841"
+        ],
+        "fecha_contextual": null,
+        "evidencia_ocr": null,
+        "fragmento_docling": null,
+        "motivo_revision": null,
+        "bloques_fuente": []
+      },
+      {
+        "id": "dfl-149-1981",
+        "tipo": "DFL",
+        "numero": "149",
+        "anio": 1981,
+        "fecha": null,
+        "fecha_texto_original": null,
+        "titulo": null,
+        "texto_original": "D.F.L. 149 de 1981",
+        "pagina": 1,
+        "fuente": "resolver",
+        "variantes": [
+          "D.F.L. 149 de 1981"
+        ],
+        "fecha_contextual": null,
+        "evidencia_ocr": "D.F.L. 149 de 1981",
+        "fragmento_docling": "149 de 1981; VISTOS: lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991,",
+        "motivo_revision": "Referencia fragmentada por orden de lectura",
+        "bloques_fuente": [
+          "#/texts/7"
+        ]
+      },
+      {
+        "id": "acuerdo-1991",
+        "tipo": "ACUERDO",
+        "numero": null,
+        "anio": 1991,
+        "fecha": null,
+        "fecha_texto_original": null,
+        "titulo": "acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991",
+        "texto_original": "acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991",
+        "pagina": 1,
+        "fuente": "regex_acuerdo",
+        "variantes": [
+          "acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991"
+        ],
+        "fecha_contextual": "06/06/1991",
+        "evidencia_ocr": null,
+        "fragmento_docling": null,
+        "motivo_revision": null,
+        "bloques_fuente": []
+      },
+      {
+        "id": "reglamento-reglamento-de-regimen-academico-324b1bc9",
+        "tipo": "REGLAMENTO",
+        "numero": null,
+        "anio": null,
+        "fecha": null,
+        "fecha_texto_original": null,
+        "titulo": "REGLAMENTO DE REGIMEN ACADEMICO",
+        "texto_original": "REGLAMENTO DE REGIMEN ACADEMICO",
+        "pagina": 1,
+        "fuente": "regla",
+        "variantes": [
+          "REGLAMENTO DE REGIMEN ACADEMICO"
+        ],
+        "fecha_contextual": null,
+        "evidencia_ocr": null,
+        "fragmento_docling": null,
+        "motivo_revision": null,
+        "bloques_fuente": []
+      }
+    ],
+    "edges": [
+      {
+        "source": "resolucion-2092-1991",
+        "relation": "APRUEBA",
+        "target": "reglamento-reglamento-de-regimen-academico-324b1bc9",
+        "evidence": "Y APRUEBA SU REGLAMENTO DE REGIMEN ACADEMICO",
+        "evidences": [
+          {
+            "texto": "Y APRUEBA SU REGLAMENTO DE REGIMEN ACADEMICO",
+            "pagina": 1,
+            "fuente": "titulo"
+          }
+        ],
+        "page": 1,
+        "method": "regla_aprueba_titulo",
+        "operation": "APRUEBA",
+        "scope": null
+      },
+      {
+        "source": "resolucion-2092-1991",
+        "relation": "REFERENCIA",
+        "target": "resolucion-841-1988",
+        "evidence": "lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991",
+        "evidences": [
+          {
+            "texto": "lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991",
+            "pagina": 1,
+            "fuente": "VISTOS"
+          }
+        ],
+        "page": 1,
+        "method": "regla_vistos",
+        "operation": "CITA",
+        "scope": null
+      },
+      {
+        "source": "resolucion-2092-1991",
+        "relation": "REFERENCIA",
+        "target": "dfl-149-1981",
+        "evidence": "OCR alternativo: D.F.L. 149 de 1981 | Fragmento Docling: 149 de 1981; VISTOS: lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991,",
+        "evidences": [
+          {
+            "texto": "D.F.L. 149 de 1981",
+            "pagina": 1,
+            "fuente": "ocr_reference_rescue"
+          },
+          {
+            "texto": "149 de 1981; VISTOS: lo dispuesto en el D.F.L. las facultades que me confiere el Art. 6.10 de la Resolución N2 841 del 2 de mayo de 1988, y el acuerdo del Consejo de Facultad de Humanidades, en su sesión N2 96 del 6 de junio de 1991,",
+            "pagina": 1,
+            "fuente": "docling_fragment"
+          }
+        ],
+        "page": 1,
+        "method": "ocr_reference_rescue",
+        "operation": "CITA",
+        "scope": null
+      }
+    ]
+  }
+}

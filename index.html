@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Archivo Institucional — Sistema Documental</title>
+<meta name="description" content="Plataforma de búsqueda y gestión documental institucional (prototipo)">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" referrerpolicy="no-referrer">
+<link rel="stylesheet" href="styles.css?v=20260830">
+</head>
+<body>
+<a class="skip-link" href="#main">Saltar al contenido</a>
+
+<div id="app">
+
+  <!-- ========== HEADER PERSISTENTE ========== -->
+  <header class="site-header" role="banner">
+    <div class="header-inner">
+
+      <button class="icon-btn menu-toggle" id="menuToggle" aria-label="Abrir menú de navegación" aria-expanded="false" aria-controls="siteNav">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg>
+      </button>
+
+      <a class="brand" href="#/home" data-route="home" aria-label="Archivo Institucional — Ir al inicio">
+        <img src="Usach S2.png" alt="" class="usach-logo" />
+        <div class="brand-divider"></div>
+        <span class="brand-text">
+          <!-- <span class="brand-title">ConTexto</span> -->
+          <span class="brand-sub">Prototipo TG</span>
+        </span>
+      </a>
+
+            <nav class="site-nav" id="siteNav" role="navigation" aria-label="Navegación principal">
+        <ul>
+          <li><a href="#/home" data-route="home" class="nav-link">Inicio</a></li>
+          <li><a href="#/explore" data-route="explore" class="nav-link">Explorar</a></li>
+          <li><a href="#/guide" data-route="guide" class="nav-link">Guía de búsqueda</a></li>
+          <li><a href="#/about" data-route="about" class="nav-link">Acerca del archivo</a></li>
+        </ul>
+      </nav>
+
+      <div class="header-utility" aria-label="Acciones utilitarias">
+        <button type="button" class="nav-utility-desktop" id="navAdvSearchDesktop" aria-label="Abrir búsqueda avanzada">
+          <i class="fa-solid fa-sliders ic-meta" aria-hidden="true"></i>
+          <span>Búsqueda avanzada</span>
+        </button>
+      </div>
+
+    </div>
+  </header>
+
+  <!-- ========== LAYOUT PRINCIPAL ========== -->
+  <main id="main" class="layout" role="main" tabindex="-1">
+    <div class="page-surface" id="pageSurface">
+      <div class="page-tab" id="pageTab" aria-hidden="true">INICIO</div>
+      <div class="page-fold" aria-hidden="true"></div>
+      <div id="app-view">
+        <!-- Las vistas se inyectan aquí dinámicamente -->
+      </div>
+    </div>
+  </main>
+
+  <!-- ========== FOOTER INSTITUCIONAL ========== -->
+  <footer class="site-footer" id="siteFooter">
+  <div class="footer-main">
+    <div class="footer-main-inner">
+      <div class="footer-brand">
+        <h2>Archivo Institucional</h2>
+        <p>Buscador experimental para facilitar el acceso a documentación institucional universitaria.</p>
+        <span class="footer-academic-label">Prototipo académico &middot; Trabajo de Graduación</span>
+      </div>
+      
+      <nav class="footer-nav" aria-label="Navegación del pie de página">
+        <h3 id="fn-nav">Navegación</h3>
+        <ul aria-labelledby="fn-nav">
+          <li><a href="#/home">Inicio</a></li>
+          <li><a href="#/explore">Explorar</a></li>
+          <li><a href="#/guide">Guía de búsqueda</a></li>
+          <li><a href="#/about">Acerca del archivo</a></li>
+          <li class="scroll-top-item"><button type="button" class="btn-scroll-top" onclick="window.scrollTo({top:0, behavior:'smooth'})">Volver arriba</button></li>
+        </ul>
+      </nav>
+      
+      <nav class="footer-units" aria-label="Unidades institucionales">
+        <h3 id="fn-units">Unidades institucionales</h3>
+        <ul class="footer-units-list" aria-labelledby="fn-units">
+          <li><a href="https://www.vra.usach.cl/" target="_blank" rel="noopener noreferrer">Vicerrectoría Académica <i class="fa-solid fa-arrow-up-right-from-square ic-meta" aria-hidden="true"></i><span class="sr-only">(Abre en nueva pestaña)</span></a></li>
+          <li><a href="https://www.vime.usach.cl/" target="_blank" rel="noopener noreferrer">Vicerrectoría de Vinculación con el Medio <i class="fa-solid fa-arrow-up-right-from-square ic-meta" aria-hidden="true"></i><span class="sr-only">(Abre en nueva pestaña)</span></a></li>
+          <li><a href="https://www.postgrado.usach.cl/" target="_blank" rel="noopener noreferrer">Vicerrectoría de Postgrado <i class="fa-solid fa-arrow-up-right-from-square ic-meta" aria-hidden="true"></i><span class="sr-only">(Abre en nueva pestaña)</span></a></li>
+          <li><a href="https://vicaviged.usach.cl/" target="_blank" rel="noopener noreferrer">Vicerrectoría de Calidad de Vida, Género, Equidad y Diversidad <i class="fa-solid fa-arrow-up-right-from-square ic-meta" aria-hidden="true"></i><span class="sr-only">(Abre en nueva pestaña)</span></a></li>
+          <li><a href="https://vriic.usach.cl/" target="_blank" rel="noopener noreferrer">Vicerrectoría de Investigación, Innovación y Creación <i class="fa-solid fa-arrow-up-right-from-square ic-meta" aria-hidden="true"></i><span class="sr-only">(Abre en nueva pestaña)</span></a></li>
+          <li><a href="https://vrae.usach.cl/" target="_blank" rel="noopener noreferrer">Vicerrectoría de Apoyo Estudiantil <i class="fa-solid fa-arrow-up-right-from-square ic-meta" aria-hidden="true"></i><span class="sr-only">(Abre en nueva pestaña)</span></a></li>
+          <li><a href="https://vrifyl.usach.cl/" target="_blank" rel="noopener noreferrer">Vicerrectoría de Finanzas y Logística <i class="fa-solid fa-arrow-up-right-from-square ic-meta" aria-hidden="true"></i><span class="sr-only">(Abre en nueva pestaña)</span></a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="footer-bottom-inner">
+      <div class="fb-disclaimer">
+        <p>Prototipo desarrollado con fines académicos. La información, vigencia y contenido de los documentos deben verificarse en su fuente institucional oficial.</p>
+      </div>
+      <div class="fb-links">
+        <a href="https://www.usach.cl/" target="_blank" rel="noopener noreferrer">Portal USACH <i class="fa-solid fa-arrow-up-right-from-square ic-meta" aria-hidden="true"></i><span class="sr-only">(Abre en nueva pestaña)</span></a>
+        <a href="https://www.transparenciaactiva.usach.cl/" target="_blank" rel="noopener noreferrer">Transparencia Activa <i class="fa-solid fa-arrow-up-right-from-square ic-meta" aria-hidden="true"></i><span class="sr-only">(Abre en nueva pestaña)</span></a>
+        <a href="https://www.usach.cl/gobierno-universitario" target="_blank" rel="noopener noreferrer">Gobierno Universitario <i class="fa-solid fa-arrow-up-right-from-square ic-meta" aria-hidden="true"></i><span class="sr-only">(Abre en nueva pestaña)</span></a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <!-- ========== NOTIFICACIONES TOAST ========== -->
+  <div class="toast-region" id="toastRegion" aria-live="polite" aria-atomic="true"></div>
+
+  <!-- ========== MODAL COMPARACIÓN DOCUMENTAL ========== -->
+  <div class="modal" id="compareModal" hidden role="dialog" aria-modal="true" aria-labelledby="compareTitle">
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-dialog modal-wide" role="document">
+      <header class="modal-head">
+        <h3 id="compareTitle">Comparación documental</h3>
+        <button class="icon-btn" data-close-modal aria-label="Cerrar">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        </button>
+      </header>
+      <div class="compare-grid" id="compareGrid"></div>
+      <footer class="modal-foot">
+        <p class="hint-warn"><i class="fa-solid fa-triangle-exclamation ic-meta ic-amber" aria-hidden="true"></i> Las coincidencias son sugerencias automáticas. Toda relación requiere validación administrativa.</p>
+        <div>
+          <button class="btn ghost" data-close-modal>Cerrar</button>
+          <button class="btn primary" id="compareAccept">Aceptar relación sugerida</button>
+        </div>
+      </footer>
+    </div>
+  </div>
+
+  <!-- ========== DRAWER FILTROS MÓVIL ========== -->
+  <div class="drawer" id="filterDrawer" hidden>
+    <div class="drawer-backdrop" data-close-drawer></div>
+    <aside class="drawer-panel" aria-label="Filtros de búsqueda" role="dialog" aria-modal="true" aria-labelledby="fd-title">
+      <header class="drawer-head">
+        <div>
+          <h3 id="fd-title">Filtros</h3>
+          <button class="link sm" data-fdockon style="margin-top:4px">▷ Acoplar panel</button>
+        </div>
+        <button class="icon-btn" data-close-drawer aria-label="Cerrar filtros (Esc)">
+          <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        </button>
+      </header>
+      <div class="drawer-body" id="drawerFacets"></div>
+      <footer class="drawer-foot">
+        <button class="btn ghost" id="drawerClear">Limpiar</button>
+        <button class="btn primary" data-close-drawer id="drawerApply">Ver resultados</button>
+      </footer>
+    </aside>
+  </div>
+
+</div>
+
+<script src="app.js?v=20260830"></script>
+</body>
+</html>
