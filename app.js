@@ -634,7 +634,7 @@ const TIPOS_RELACION = ['Deroga','Modifica parcialmente','Aprueba','Incorpora li
    2.b ContextoDataStore · Capa adaptador datos reales GLiNER
    (Integración estática simple · NO backend · NO scoring)
    ========================================================= */
-const APP_CACHE_TOKEN = '20261006h';
+const APP_CACHE_TOKEN = '20261006i';
 
 const ctxData = {
   ready: false,
@@ -2018,6 +2018,18 @@ function renderRailTimeline(){
 /* =========================================================
    7. VISTA A · INICIO / EXPLORACIÓN
    ========================================================= */
+function collectionCardSmall(c){
+  const docs = Array.isArray(c.docs) ? c.docs : [];
+  const n = typeof c.count === 'number' ? Math.max(c.count, docs.length) : docs.length;
+  return `
+    <a class="col-card-sm" href="#/search?coleccion=${c.id}" tabindex="0" aria-label="Colección: ${escHTML(c.nombre)} · ${n} documentos">
+      <div class="ccs-pattern ${c.pattern||''}" style="background:${c.color||'#566274'}"></div>
+      <div class="ccs-n" style="background:${c.color||'#566274'}">${n}</div>
+      <div class="ccs-title">${escHTML(String(c.nombre||'').length>30?String(c.nombre).slice(0,30)+'…':String(c.nombre||''))}</div>
+      <div class="ccs-desc">${escHTML(String(c.desc||'').length>70?String(c.desc).slice(0,70)+'…':String(c.desc||''))}</div>
+    </a>`;
+}
+
 function renderHome(){
   const store = ContextoStoreHelpers;
   const corpusStats = store.getCorpusStats();
@@ -2109,15 +2121,6 @@ function renderHome(){
       </div>
     </article>`;
   };
-
-  // Collection card surrogate (para estantes)
-  const collectionCardSmall = (c)=>`
-    <a class="col-card-sm" href="#/search?coleccion=${c.id}" tabindex="0" aria-label="Colección: ${escHTML(c.nombre)} · ${c.count} documentos">
-      <div class="ccs-pattern ${c.pattern}" style="background:${c.color}"></div>
-      <div class="ccs-n" style="background:${c.color}">${c.count}</div>
-      <div class="ccs-title">${escHTML(c.nombre.length>30?c.nombre.slice(0,30)+'…':c.nombre)}</div>
-      <div class="ccs-desc">${escHTML(c.desc.length>70?c.desc.slice(0,70)+'…':c.desc)}</div>
-    </a>`;
 
   // Change document surrogate (para estante horizontal de cambios)
   const changeCardSmall = (c)=>{
