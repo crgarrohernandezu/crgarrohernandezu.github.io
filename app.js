@@ -634,7 +634,7 @@ const TIPOS_RELACION = ['Deroga','Modifica parcialmente','Aprueba','Incorpora li
    2.b ContextoDataStore · Capa adaptador datos reales GLiNER
    (Integración estática simple · NO backend · NO scoring)
    ========================================================= */
-const APP_CACHE_TOKEN = '20261006i';
+const APP_CACHE_TOKEN = '20261011a';
 
 const ctxData = {
   ready: false,
@@ -996,17 +996,17 @@ function BrandIdentity(variant='compact', opts={}){
   const v = String(variant || 'compact').toLowerCase();
 
   const logoMarkup = showLogo
-    ? `<img class="bi-logo" src="${logoSrc}" alt="" aria-hidden="true" width="auto" height="56" style="height:56px;max-height:84px;max-width:100%;width:auto;display:block;object-fit:contain;flex-shrink:0;"><span class="bi-divider" aria-hidden="true"></span>`
+    ? `<img class="bi-logo" src="${logoSrc}" alt="" aria-hidden="true" width="auto" height="56" style="height:var(--bi-logo-h,56px);max-height:84px;max-width:100%;width:auto;display:block;object-fit:contain;"><span class="bi-divider" aria-hidden="true"></span>`
     : '';
   const protoMarkup = showProto
     ? `<span class="bi-proto" title="Este prototipo es de carácter experimental y no reemplaza los canales institucionales oficiales."><i class="fa-solid fa-flask-vial ic-meta" aria-hidden="true"></i> ${BRAND.proto}</span>`
     : '';
   const faviconMarkup = showFavicon
-    ? `<img class="bi-favicon" src="${faviconSrc}" alt="" aria-hidden="true" width="auto" height="40" style="height:36px;max-height:64px;max-width:100%;width:auto;display:block;object-fit:contain;flex-shrink:0;">`
+    ? `<img class="bi-favicon" src="${faviconSrc}" alt="" aria-hidden="true" width="auto" height="40" style="height:var(--bi-fav-h,40px);max-height:64px;max-width:100%;width:auto;display:block;object-fit:contain;">`
     : '';
 
   if(v === 'compact'){
-    const logoCompact = showLogo ? `<img class="bi-logo" src="${logoSrc}" alt="" aria-hidden="true" width="auto" height="56" style="height:56px;max-height:84px;max-width:100%;width:auto;display:block;object-fit:contain;flex-shrink:0;">` : '';
+    const logoCompact = showLogo ? `<img class="bi-logo" src="${logoSrc}" alt="" aria-hidden="true" width="auto" height="56" style="height:var(--bi-logo-h,56px);max-height:84px;max-width:var(--bi-logo-maxw,100%);width:auto;display:block;object-fit:contain;">` : '';
     const dividerCompact = showLogo ? `<span class="bi-divider" aria-hidden="true"></span>` : '';
     return `
       <a class="brand-id compact" href="#/home" data-route="home"
@@ -1022,8 +1022,8 @@ function BrandIdentity(variant='compact', opts={}){
   }
   if(v === 'hero'){
     const logoHero = showLogo
-      ? `<div class="bi-institution" aria-hidden="true" style="max-height:90px;max-width:280px;display:flex;align-items:center;flex-shrink:0;">
-           <img class="bi-logo" src="${logoSrc}" alt="" aria-hidden="true" width="auto" height="83" style="height:83px;max-height:84px;max-width:100%;width:auto;display:block;object-fit:contain;">
+      ? `<div class="bi-institution" aria-hidden="true" style="max-height:90px;max-width:280px;display:flex;align-items:center;">
+           <img class="bi-logo" src="${logoSrc}" alt="" aria-hidden="true" width="auto" height="83" style="height:var(--bi-hero-logo-h,83px);max-height:84px;max-width:100%;width:auto;display:block;object-fit:contain;">
          </div>`
       : '';
     return `
@@ -1039,7 +1039,7 @@ function BrandIdentity(variant='compact', opts={}){
   if(v === 'footer'){
     const faviconSrcInverse = 'contexto-icono-inverso.png';
     const faviconFooterMarkup = showFavicon
-      ? `<img class="bi-favicon bi-favicon-inverse" src="${faviconSrcInverse}" alt="" aria-hidden="true" width="auto" height="26" style="height:26px;width:auto;max-height:40px;max-width:100%;display:block;object-fit:contain;flex-shrink:0;filter:drop-shadow(0 1px 2px rgba(0,0,0,.35));">`
+      ? `<img class="bi-favicon bi-favicon-inverse" src="${faviconSrcInverse}" alt="" aria-hidden="true" width="auto" height="26" style="height:26px;width:auto;max-height:40px;max-width:100%;display:block;object-fit:contain;filter:drop-shadow(0 1px 2px rgba(0,0,0,.35));">`
       : '';
     return `
       <div class="brand-id footer" role="group" aria-label="${BRAND.name} · Identidad institucional en pie de página">
@@ -1054,7 +1054,7 @@ function BrandIdentity(variant='compact', opts={}){
 
         <a class="bi-lab-link" href="https://interaction-lab.cl/" target="_blank" rel="noopener noreferrer"
            aria-label="Ir al sitio del InTeractiOn Research Lab (abre en pestaña externa)">
-          <img class="bi-lab-ic" src="ito-logo.png" alt="" aria-hidden="true" width="auto" height="52" style="height:52px;width:auto;max-height:64px;max-width:100%;display:block;object-fit:contain;flex-shrink:0;">
+          <img class="bi-lab-ic" src="ito-logo.png" alt="" aria-hidden="true" width="auto" height="52" style="height:52px;width:auto;max-height:64px;max-width:100%;display:block;object-fit:contain;">
           <span class="bi-lab-text">
             <span class="bi-lab-name">InTeractiOn Research Lab</span>
             <span class="bi-lab-desc">Information · Interaction · Visualization <i class="fa-solid fa-arrow-up-right-from-square ic-meta ext" aria-hidden="true"></i></span>
